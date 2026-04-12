@@ -1,0 +1,991 @@
+source_city,violation_code,violation_description,violation_points,violation_count
+Chicago,38,VENTILATION: ROOMS AND EQUIPMENT VENTED AS REQUIRED: PLUMBING: INSTALLED AND MAINTAINED,null,72064
+Chicago,38,"INSECTS, RODENTS, & ANIMALS NOT PRESENT",null,72064
+Chicago,34,"FLOORS: CONSTRUCTED PER CODE, CLEANED, GOOD REPAIR, COVING INSTALLED, DUST-LESS CLEANING METHODS USED",null,70765
+Chicago,34,PLANT FOOD PROPERLY COOKED FOR HOT HOLDING,null,70765
+Chicago,33,"FOOD AND NON-FOOD CONTACT EQUIPMENT UTENSILS CLEAN, FREE OF ABRASIVE DETERGENTS",null,66419
+Chicago,33,PROPER COOLING METHODS USED; ADEQUATE EQUIPMENT FOR TEMPERATURE CONTROL,null,66419
+Chicago,35,"WALLS, CEILINGS, ATTACHED EQUIPMENT CONSTRUCTED PER CODE: GOOD REPAIR, SURFACES CLEAN AND DUST-LESS CLEANING METHODS",null,64790
+Chicago,35,APPROVED THAWING METHODS USED,null,64790
+Chicago,55,"PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN",null,54442
+Chicago,32,VARIANCE OBTAINED FOR SPECIALIZED PROCESSING METHODS,null,53623
+Chicago,32,"FOOD AND NON-FOOD CONTACT SURFACES PROPERLY DESIGNED, CONSTRUCTED AND MAINTAINED",null,53623
+Dallas,42,Ventilation hood systems,1,50821
+Dallas,42,cleaning hermetically sealed containers of food or visible soil before opening,1,50821
+Dallas,42,Dirty nonfood contact surfaces,1,50821
+Dallas,42,Kickplates,1,50821
+Dallas,42,Nonfood-contact surfaces material,1,50821
+Dallas,42,Floors/walls/ceiling/nonfood dirty,1,50821
+Dallas,42,Floors/walls/ceiling/nonfood dirty,2,50821
+Dallas,10,Food thermometer cleaned before use,3,48875
+Dallas,10,Q.A. PPM -  hardness of water,3,48875
+Dallas,10,"Single-use articles, required use",3,48875
+Dallas,10,"After being cleaned, food-contact surfaces shall be sanitized in a contact time of at least 7 se",3,48875
+Dallas,10,Clean Sight and Touch,1,48875
+Dallas,10,"After being cleaned, equipment food-contact surfaces and utensils shall be sanitized in an expos",2,48875
+Dallas,10,A chemical sanitizer used: contact times criteria,3,48875
+Dallas,10,"Chlorine sanitizer concentration, minimum temp.",3,48875
+Dallas,10,Equipment and Utensils Cleaning-fruits & PHF,3,48875
+Dallas,10,Clean Sight and Touch,2,48875
+Dallas,10,Cleaning between Raw & Ready to Eat ( RTE ),3,48875
+Dallas,10,Chlorine exposure time table,3,48875
+Dallas,10,Equipment and Utensils Sanitization,3,48875
+Dallas,10,Other sanitizer exposure time,3,48875
+Dallas,10,Outfitter-Ice use (if cooling),4,48875
+Dallas,10,Other sanitizer use -  manufacturer label direction,3,48875
+Dallas,10,Sanitization after Cleaning,3,48875
+Dallas,10,Quaternary ammonium temperature requirement,3,48875
+Dallas,10,Reuse of take-home containers,3,48875
+Dallas,10,Equipment / Utensils (PHF) every 4 hours,3,48875
+Dallas,10,Q.A. PPM -  follow manufacturer's direction,3,48875
+Dallas,10,Clean Surface Different Foods,3,48875
+Dallas,10,Chlorine exposure time table,1,48875
+Dallas,10,"After being cleaned, equipment food-contact surfaces and utensils shall be sanitized in an expos",3,48875
+Dallas,10,Equipment and Utensils Cleaning-contamination,3,48875
+Dallas,10,Hot water sanitizer surface  temp. < 160'F,3,48875
+Dallas,10,Outfitter-Ice use (if cooling),3,48875
+Dallas,10,Iodine solution pH requirement,3,48875
+Dallas,10,"Chlorine sanitizer concentration, minimum temp.",2,48875
+Dallas,10,Clean Sight and Touch,3,48875
+Dallas,21,PIC ensures food properly and rapidly cooled,2,47482
+Dallas,21,PIC ensures effective handwashing  being done,2,47482
+Dallas,21,PIC ensures consumers know to use clean tableware,2,47482
+Dallas,21,RFSM notify 10 days & replacement in 45 days,2,47482
+Dallas,21,Person in charge must be on site at all times.,2,47482
+Dallas,21,A establishment shall have written procedures for employees to follow when responding to vomitin,2,47482
+Dallas,21,A establishment shall have written procedures for employees to follow when responding to vomitin,3,47482
+Dallas,21,RFSM - Not On Site,1,47482
+Dallas,21,PIC to ensure no unapproved indiv in food prep are,2,47482
+Dallas,21,PIC ensures received foods meet requirements,2,47482
+Dallas,21,Person in charge. The person in charge shall ensure that õ228.34 (1-15) Relating to Duties of PI,2,47482
+Dallas,21,PIC ensures food handlers properly trained,2,47482
+Dallas,21,Being a certified food protection manager who has shown proficiency of required information thro,2,47482
+Dallas,21,PIC ensures foods cooked to proper temperatures,2,47482
+Dallas,21,Person in charge. The person in charge shall ensure that õ228.34 (1-15) Relating to Duties of PI,1,47482
+Dallas,21,Responding correctly to the inspector#s questions as they relate to the specific food operation.,2,47482
+Dallas,21,Demonstrateion of knowledge by PIC,2,47482
+Dallas,21,A establishment shall have written procedures for employees to follow when responding to vomitin,1,47482
+Dallas,21,Outfitter-Certified Food Manager,2,47482
+Dallas,21,Responding correctly to the inspector#s questions as they relate to the specific food operation.,1,47482
+Dallas,21,No unnecessary personnel allowed in food prep area,2,47482
+Dallas,21,PIC prevents cross contamination by bare hands,2,47482
+Dallas,21,RFSM - Not On Site,2,47482
+Dallas,21,RFSM supervisory capacity up to 4 establishment,2,47482
+Dallas,21,Customers know of risks with partially cooked food,2,47482
+Dallas,21,"Based on the risks inherent to the food operation, during inspections and upon request the perso",2,47482
+Dallas,21,Bed and Breakfast Certified food protection manager,2,47482
+Dallas,21,PIC ensures employees are properly sanitizing equi,2,47482
+Dallas,47,Other Violations,1,40439
+Dallas,47,Constructing / Remodeling without approval,1,40439
+Dallas,47,Other Violations,3,40439
+Dallas,47,Permit/license posted,1,40439
+Dallas,47,Operate with a lapsed permit,1,40439
+Dallas,47,No carpeting in food & toilet area,1,40439
+Dallas,47,RFSM Certificate - Not Display,2,40439
+Dallas,47,OTHER VIOLATIONS,1,40439
+Dallas,47,RFSM Certificate - Not Display,1,40439
+Dallas,47,Raw animal foods cooked in a microwave oven shall be allowed to stand covered for 2 minutes afte,1,40439
+Dallas,47,Health permit posted,1,40439
+Dallas,47,Health permit posted,2,40439
+Dallas,47,Handwashing signage,1,40439
+Dallas,47,Food prep/utensil wash/mop sink not for hand wash,1,40439
+Dallas,47,Conditions of Permit-in use of food equipment,1,40439
+Dallas,47,Invalid Plans & Specifications,1,40439
+Dallas,47,Handwashing signage,2,40439
+Dallas,47,Handler-Certificate Not on site,1,40439
+Dallas,47,Permit/license posted,2,40439
+Dallas,47,Central Preparation Facility Inspection Report,1,40439
+Dallas,47,"Records kept on site--bacteriological tests, boil water notification",1,40439
+Dallas,47,Handler-Certificate Not on site,2,40439
+Chicago,41,WIPING CLOTHS: PROPERLY USED & STORED,null,40033
+Chicago,41,"PREMISES MAINTAINED FREE OF LITTER, UNNECESSARY ARTICLES, CLEANING  EQUIPMENT PROPERLY STORED",null,40033
+Dallas,31,Handwashing lavatory - allow convenient,2,35257
+Dallas,31,Handwashing lavatory - accessible,2,35257
+Dallas,31,"A self-closing, slow-closing, or metering faucet shall provide a flow of water for at least 15 s",2,35257
+Dallas,31,Handwashing lavatory - not adjacent to toilet,2,35257
+Dallas,31,An automatic handwashing facility shall be installed in accordance with manufacturer's instructi,2,35257
+Dallas,31,"Individual, disposable towels",1,35257
+Dallas,31,Handwashing lavatory - used for other purpose,1,35257
+Dallas,31,Hand sinks: number installed for convenient use,2,35257
+Dallas,31,A steam mixing valve may not be used at a handwashing sink,2,35257
+Dallas,31,"Individual, disposable towels",2,35257
+Dallas,31,"Individual, disposable towels",3,35257
+Dallas,31,Heated air hand drying device,2,35257
+Dallas,31,Automatic handwshing used according to manufacturer,3,35257
+Dallas,31,Bed and Breakfast Handsink Use,2,35257
+Dallas,31,Concentration of hand dip,2,35257
+Dallas,31,Hand sinks: number installed for convenient use,1,35257
+Dallas,31,No soap at handsink,1,35257
+Dallas,31,Automatic hand washing facility may be used if approved,2,35257
+Dallas,31,No soap at handsink,2,35257
+Dallas,31,Handwashing lavatory - used for other purpose,2,35257
+Dallas,31,Hand Sanitizers,2,35257
+Dallas,31,procedure for hand dip,2,35257
+Chicago,36,THERMOMETERS PROVIDED & ACCURATE,null,34980
+Chicago,36,"LIGHTING: REQUIRED MINIMUM FOOT-CANDLES OF LIGHT PROVIDED, FIXTURES SHIELDED",null,34980
+Dallas,45,Ceiling easily cleanable and light in color,1,34839
+Dallas,45,Store maintenance equip away from food/food equip,1,34839
+Dallas,45,"Dressing areas, designated",1,34839
+Dallas,45,"Premises:Cleaning, frequency and restrictions",1,34839
+Dallas,45,"n a consumer area, wall and ceiling surfaces and decorative items kept clean",1,34839
+Dallas,45,Cabinet used for the storage of food may not be located in locker rooms etc.,1,34839
+Dallas,45,Premises free of litter,1,34839
+Dallas,45,Drying Mops-air dry,1,34839
+Dallas,45,Premises cleaned when minimal food is exposed,1,34839
+Dallas,45,Clean facilities as often as necessary.,1,34839
+Dallas,45,Ceiling easily cleanable and light in color,2,34839
+Dallas,45,Outdoor effectively prevent pooling,1,34839
+Dallas,45,Carpet installed securely attached to the floor,1,34839
+Dallas,45,Unnecessary articles prohibited,1,34839
+Dallas,45,Physical Facilities Premises-absorbent materials on floors,1,34839
+Dallas,45,Mats / Duckboards nonabsorbent,1,34839
+Dallas,45,Walls easily cleanable and light in color,1,34839
+Dallas,45,Proper cleaning equip provided for waste recept,1,34839
+Dallas,45,"Concrete, porous blocks, or bricks used for indoor wall construction shall be finished and seale",1,34839
+Dallas,45,Floors/walls/ceilings approved carpeting,1,34839
+Dallas,45,Dressing areas:Lockers,1,34839
+Dallas,45,Floor& wall junctures- coved & sealed,1,34839
+Dallas,45,"Cleaning floors, dustless methods",1,34839
+Dallas,45,"Walls and ceilings, studs, joists, and rafters",1,34839
+Dallas,45,Carpet installed tightly against the wall under the coving,1,34839
+Dallas,45,Wall and ceiling covering materials shall be attached so that they are easily cleanable,1,34839
+Dallas,45,Attachments to walls and ceilings shall be easily cleanable,1,34839
+Dallas,45,Walls shall be light in color,1,34839
+Dallas,45,Outfitter-Food Temperatures.,1,34839
+Dallas,45,"Living or sleeping quarters, separation",1,34839
+Dallas,45,Lockers to be used to store personal items,1,34839
+Dallas,45,Clothes washer and dryer location requirements,1,34839
+Dallas,45,"Floor covering, mats and duckboards",1,34839
+Dallas,45,Premises shall be maintained in good repair,1,34839
+Dallas,45,Floor contruction requirements,1,34839
+Dallas,45,Store maintenance equipment in orderly manner,1,34839
+Dallas,45,Location of lockers,1,34839
+Dallas,45,Drying Mops-air dry,2,34839
+Dallas,45,First Aid,1,34839
+Dallas,45,Eating and tobacco areas.,1,34839
+Dallas,39,Equip sealed if it is exposed to spillage,1,33191
+Dallas,39,"In-use utensils, between-use storage. During pauses in food preparation or dispensing, food prep",3,33191
+Dallas,39,Microwave safety standards,1,33191
+Dallas,39,Cups may be reused if free of contamination,1,33191
+Dallas,39,Loosely cover cooling foods,1,33191
+Dallas,39,"No equipment, utensil & single use in garbage room",1,33191
+Dallas,39,"No equipment, utensil under sewer lines",1,33191
+Dallas,39,"Precleaning food debris of utenlsils - flush, soak",1,33191
+Dallas,39,Equipment & Utensils for non PHF shall be cleaned,1,33191
+Dallas,39,Equipment-table mounted must be sealed to table,1,33191
+Dallas,39,Cooling using containers that allow max. heat transfer,1,33191
+Dallas,39,Store all equipment & utensil covered or inverted,1,33191
+Dallas,39,Non food contact linen shall be laundered.......,1,33191
+Dallas,39,Equipment-space to allow access for cleaning,1,33191
+Dallas,39,Soiled linens storage,1,33191
+Dallas,39,"No equipment, utensil & single use in locker rooms",1,33191
+Dallas,39,No equipment & utensil under contamination sources,1,33191
+Dallas,39,No equipment & utensil under leaking water lines,1,33191
+Dallas,39,Keep utensils handles upright or protected,1,33191
+Dallas,39,"Linens and Napkins, Use Limitation",1,33191
+Dallas,39,Cooking equipment free of encrusted grease,1,33191
+Dallas,39,Air-drying required after cleaning & sanitiziing,1,33191
+Dallas,39,Equipment & utensils cleaned before restocking,1,33191
+Dallas,39,Soda nozzles and ice bin clean as specified,3,33191
+Dallas,39,CIP-Cleanability-w inspection access points,1,33191
+Dallas,39,Cutting surfaces.,1,33191
+Dallas,39,Non PHF dispenser cleaned every 24 hrs,1,33191
+Dallas,39,Keep utensils handles upright or protected,2,33191
+Dallas,39,Tableware must by wrapped if tableware is preset,1,33191
+Dallas,39,"In-use utensils, between-use storage. During pauses in food preparation or dispensing, food prep",1,33191
+Dallas,39,Store  equipment & utensils - avoid contamination,1,33191
+Dallas,39,Take-out beverage containers refilled by employees or the consumer if refilling is a contaminati,1,33191
+Dallas,39,No equipment & utensil under open stairwells,1,33191
+Dallas,39,Dry cleaning equipment food contact surfaces only,1,33191
+Dallas,39,Can openers shall be kept sharp,1,33191
+Dallas,39,"Equipment - table mounted - 4"" clearance",1,33191
+Dallas,39,Store  equipment & utensils - avoid contamination,2,33191
+Dallas,39,"Equipment-doors, seal hinges adjusted/intact",1,33191
+Dallas,39,"No equipment, utensil &  in mechanical room",1,33191
+Dallas,39,Dirty linens,1,33191
+Dallas,39,Mechanically washed all linens,1,33191
+Dallas,39,Equipment and Utensils Storage,1,33191
+Dallas,39,Remove extra tablware when a consumer is seated,1,33191
+Dallas,39,"Store  equipment & utensils in a clean, dry place",1,33191
+Dallas,39,"Utensils, single serve items 6 inches off  - floor",1,33191
+Dallas,39,Adjoining equipment not spaced more than 1 mm,1,33191
+Dallas,39,"No equipment, utensil & single use in toilet rooms",1,33191
+Dallas,39,Single -service item stored in locker room,1,33191
+Dallas,39,"Equipment - table mounted - 2"" clearance",1,33191
+Dallas,39,"Equipment compartments, drainage",1,33191
+Dallas,39,No towel dried  after cleaning & sanitiziing,1,33191
+Dallas,39,Cavities & door seal of microwave cleaned -  24 hr,1,33191
+Dallas,39,Equipment in good repair and proper adjustment.,1,33191
+Dallas,39,"Vending machine doors and access opening covers tight-fitting, gasket",1,33191
+Dallas,39,CIP-Cleanability-self draining,1,33191
+Dallas,39,Except for refilling a consumer's drinking cup or container without contact between the pouring,1,33191
+Dallas,39,Soda nozzles and ice bin clean as specified,1,33191
+Dallas,39,Store clean utensils in a self-draining position,1,33191
+Dallas,39,"Utensils, consumer self-service",1,33191
+Dallas,39,Equipment-table mounted-elevated on legs,1,33191
+Dallas,39,Cutting surfaces.,2,33191
+Dallas,39,Cloth napkins shall be laundered between each use,1,33191
+Dallas,39,Soda nozzles and ice bin clean to remove soil,1,33191
+Dallas,39,Precleaning food debris of utenlsils - scrapped,1,33191
+Dallas,39,Baking equipment shall be cleaned every 24 hours,1,33191
+Dallas,39,"Case lot handling equipment, movability",1,33191
+Dallas,28,Date marking for hard to date packaging,1,31260
+Dallas,28,Date marking commercially prepared of RTE/PHF,2,31260
+Dallas,28,Date marking combined ingredients for RTE/ TCS food,2,31260
+Dallas,28,Original cont. of RTE/PHF/Day1= day of opening,3,31260
+Dallas,28,Date marking Paragraphs (1) and (2) of this subsection do not apply to shellstock,2,31260
+Dallas,28,"Date marking > 24 hrs,on site,temp 41F",1,31260
+Dallas,28,Original cont. of RTE/PHF/Day1= day of opening,2,31260
+Dallas,28,Do not exceed manuf. use by date,3,31260
+Dallas,28,Date marking for hard to date packaging,2,31260
+Dallas,28,Do not exceed manuf. use by date,2,31260
+Dallas,28,Date marking for hard to date packaging,3,31260
+Dallas,28,Date marking  commercially prepared RTE/ TCS food exceed a manufacturer's use-by date,2,31260
+Dallas,28,"Date marking > 24 hrs,on site,temp 41F",2,31260
+Dallas,28,Date marking commercially prepared RTE/ TCS food,2,31260
+Dallas,28,Date marking commercially prepared of RTE/PHF,3,31260
+Dallas,28,"Date marking > 24 hrs,on site,temp 41F",3,31260
+Dallas,37,"Food protected from cross contamination by storing the food in packages, covered containers, or",1,31071
+Dallas,37,Self-Service dispensing equip. protect w/o employee,1,31071
+Dallas,37,"Food storage, prohibited areas under sewer lines",1,31071
+Dallas,37,Food in packages and working containers may be stored less than 15 cm (6 inches) above the floor,1,31071
+Dallas,37,Food protected from cross contamination by separating fruits and vegetables from ready-to-eat fo,1,31071
+Dallas,37,"Food protected from cross contamination by storing the food in packages, covered containers, or",3,31071
+Dallas,37,"Food storage, prohibited areas under other sources",3,31071
+Dallas,37,"Food storage, prohibited areas in toilet rooms",1,31071
+Dallas,37,"Food storage, prohibited areas under other sources",1,31071
+Dallas,37,Unpackaged food may not be stored in direct contact with undrained ice,1,31071
+Dallas,37,"Food storage, prohibited areas - locker rooms",1,31071
+Dallas,37,Condiments protected from contamination,1,31071
+Dallas,37,"Food shall be protected from contamination by storing the food in a clean, dry location",1,31071
+Dallas,37,"Food, utensils & equip in mechanical room",1,31071
+Dallas,37,Equipment reassembled - protect food contact surf.,1,31071
+Dallas,37,Dispensing equipment protect from manual contact,1,31071
+Dallas,37,Storing the food at least 15 cm (6 inches) above the floor,1,31071
+Dallas,37,"Food storage, prohibited areas in mechanical rooms",1,31071
+Dallas,37,Shellstock condition,1,31071
+Dallas,37,"Food, utensils and equip under water line",1,31071
+Dallas,37,"Ice units, separation of drains",1,31071
+Dallas,37,"Outdoor Servicing Areas, Overhead Protection",1,31071
+Dallas,37,Food shall be protected from cross contamination by protecting food containers that are received,1,31071
+Dallas,37,"Food storage, prohibited areas under open stairwells",1,31071
+Dallas,37,"Food, utensils & equip under other sources",1,31071
+Dallas,37,"Food, utensils and equipment in locker room",1,31071
+Dallas,37,"Food, utensils and equipment in toilet room",1,31071
+Dallas,37,Dispensing equipment protected in an outside area,1,31071
+Dallas,37,Container of food that is not time/temperature controlled for safety may be re-served from one c,1,31071
+Dallas,37,"Food storage, prohibited areas under leaking water lines",1,31071
+Dallas,37,"Food protected from cross contamination by storing damaged, spoiled, or recalled food being held",1,31071
+Dallas,37,Preventing contamination from other sources. Miscellaneous sources of Contamination,3,31071
+Dallas,37,"Food, utensils & equip under sewer line",1,31071
+Dallas,37,Raw fruits and vegetables washed,1,31071
+Dallas,37,Preventing contamination from other sources. Miscellaneous sources of Contamination,1,31071
+Dallas,37,Pesticides/ non-toxic tracking powders,1,31071
+Dallas,37,Apron deflect condensation for no watertight joint,1,31071
+Dallas,37,Packaged food may not be stored in direct contact with ice or water if the food is subject to th,1,31071
+Dallas,37,Dispensing equip. no contact w/ lip-contact surfac,1,31071
+Dallas,37,Condenser unit shall be separated from the food,1,31071
+Dallas,37,Lubricating and reassembling of food-contact surfa,1,31071
+Dallas,37,Dispensing equipment w/ drip protection,1,31071
+Dallas,37,"Storing the food where it is not exposed to splash, dust, or other contamination",1,31071
+Dallas,37,Food preparation,1,31071
+Dallas,37,"Food, utensils & equip under open stairwell",1,31071
+Dallas,37,Beverage tubing and cold-plate beverage cooling,1,31071
+Chicago,47,"FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED",null,28779
+Dallas,34,Pets in common dining areas-cleaning,1,28388
+Dallas,34,Insect control devices-not over food/food prep,2,28388
+Dallas,34,Pets in common rooms/ items stored in cabinets,1,28388
+Dallas,34,Insect control devices-not over food/food prep,1,28388
+Dallas,34,Windows or doors protected against the entry criteria - air curtain,1,28388
+Dallas,34,Animals allowed in areas not for food service,1,28388
+Dallas,34,Windows or doors protected against the entry criteria - mesh size,1,28388
+Dallas,34,Exterior walls:protection,1,28388
+Dallas,34,Pets in common rooms/self- closing doors,1,28388
+Dallas,34,Exterior doors used as exits need not be self-closing if they are solid and tight-fitting,1,28388
+Dallas,34,Controlling pests. Eliminating harborage conditions,1,28388
+Dallas,34,Insect control:prevent dead insects from food,1,28388
+Dallas,34,Remove dead/trapped pests,1,28388
+Dallas,34,Live animals not allowed,1,28388
+Dallas,34,"Outer door: solid,selfclosing,tightfitting",1,28388
+Dallas,34,Devices to stun/electrocute flying insects,1,28388
+Dallas,34,Service dogs allowed,1,28388
+Dallas,34,"Outer openings:closed,tight-fitting windows",1,28388
+Dallas,34,Exterior doors used as exits need not be self-closing if they are solid and tight-fitting - Oute,1,28388
+Dallas,34,"Outer openings:closing holes, gaps",1,28388
+Dallas,34,Pest Control,1,28388
+Dallas,34,Windows or doors protected against the entry criteria by effective meansWindows or doors protect,1,28388
+Dallas,34,Pest control-routine inspections for,1,28388
+Chicago,3,"POTENTIALLY HAZARDOUS FOOD MEETS TEMPERATURE REQUIREMENT DURING STORAGE, PREPARATION DISPLAY AND SERVICE",null,27406
+Chicago,3,"MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING",null,27406
+Chicago,49,NON-FOOD/FOOD CONTACT SURFACES CLEAN,null,27209
+Dallas,32,Package integrity,3,26164
+Dallas,32,Hot oil filtering,2,26164
+Dallas,32,"Food-contact surfaces. smooth, non-absorbent and easily cleanable",2,26164
+Dallas,32,Equipment & Utensils withstand repeated warewashin,2,26164
+Dallas,32,"Equipment & Utensils resistant pit,chip, crazing",2,26164
+Dallas,32,Disassemlin Equip. & Utensil-cleaning no tools,2,26164
+Dallas,32,Damaged Equipment,1,26164
+Dallas,32,Smooth Contact Surfaces,2,26164
+Dallas,32,"Food-contact surfaces. smooth, non-absorbent and easily cleanable",1,26164
+Dallas,32,Equipment has cracks and corners,2,26164
+Dallas,32,Equipment and Utensils Durability and Strength,2,26164
+Dallas,32,Equipment and Utensils Multiuse Materials durable,2,26164
+Dallas,32,Damaged Equipment,3,26164
+Dallas,32,Damaged Equipment,2,26164
+Dallas,32,Package integrity,2,26164
+Dallas,32,Equipment designed for use w lid shall be flanged,2,26164
+Dallas,32,Nonfood surfaces-design to be cleaned easily,2,26164
+Dallas,32,Maintain in Good Repair,2,26164
+Dallas,32,Nonfood surfaces-design to be cleaned easily,1,26164
+Dallas,32,Package integrity,1,26164
+Dallas,32,Equipment clearance of cleaning space,2,26164
+Dallas,32,Can openers-cleanability,2,26164
+Dallas,32,Cover for equipment shall overlap the opening,2,26164
+Dallas,32,Equipment & Utensils smooth easily cleanable,2,26164
+Dallas,32,Thermometer in  good condition or discarded,2,26164
+Dallas,32,Approved Food Contact Equip.,2,26164
+Dallas,32,Approved Food Contact Equip.,1,26164
+Dallas,32,Dissasembled Equipment & Utensils- cleaning,2,26164
+Dallas,32,Watertight joint for equipment,2,26164
+Dallas,32,Equipment clearance of cleaning space,1,26164
+Dallas,32,Dispensing equipment in which Time/Temperature Control for Safety (TCS) food in a homogenous liq,2,26164
+Dallas,32,CIP-Cleanability,2,26164
+Dallas,32,Floor-mounted equip. sealed or elevated on 6'' legs,2,26164
+Dallas,32,Equipment & Utensils smooth easily cleanable,1,26164
+Dallas,32,Wood & wood wicker can't used as food-contact surf,2,26164
+Dallas,32,Equipment and Utensils without smooth welds,2,26164
+Dallas,36,Cloths in-use for wiping between uses stored,2,25779
+Dallas,36,Wiping cloths air dry requirement,1,25779
+Dallas,36,Cloths in-use maintained dry,1,25779
+Dallas,36,Dry wiping cloths shall be laundered........,1,25779
+Dallas,36,Dry wiping cloths and the chemical sanitizing solutions free of food debris and visible soil,1,25779
+Dallas,36,Wet wiping cloths shall be laundered daily.,1,25779
+Dallas,36,Cloths in-use for wiping between uses stored,1,25779
+Dallas,36,Containers of chemical sanitizing solutions stored off the floor and used in a manner that preve,1,25779
+Dallas,36,Cloths in-use for wiping raw animal foods shall be kept separate,1,25779
+Dallas,36,Cloths in-use for wiping food spills used for no other purpose,1,25779
+Dallas,36,Laundering wiping cloths in designated sink,1,25779
+Dallas,35,Hair Restraints effective,1,25726
+Dallas,35,"Eating food, chewing gum, drinking beverages, or using tobacco",1,25726
+Dallas,35,"Eating food, chewing gum, drinking beverages, or using tobacco",2,25726
+Dallas,35,Jewelry Prohibition,1,25726
+Dallas,35,"Outer Clothing, Clean Condition",1,25726
+Dallas,35,Handling of animals is ok when....,1,25726
+Dallas,18,No reuse of toxics container for food storage,3,25280
+Dallas,18,Equipment and Utensils Multiuse Materials-safe,3,25280
+Dallas,18,Galvanized metal may not used with acdic food,3,25280
+Dallas,18,"Chemical sanitizer generated onsite, device criteria",3,25280
+Dallas,18,Toxic items stored above food/utensils,2,25280
+Dallas,18,Unnecessary chemicals not allowed,3,25280
+Dallas,18,Remove items during pest control application,3,25280
+Dallas,18,Clean/sanitize equip. to remove pesticides,3,25280
+Dallas,18,Medicines stored in leakproof container,3,25280
+Dallas,18,Toxic items labeling-non original container,3,25280
+Dallas,18,Use toxic according to manufacturer direction,3,25280
+Dallas,18,Chemical separate by spacing - Retail Sale,3,25280
+Dallas,18,Toxic items labeling-non original container,2,25280
+Dallas,18,Toxic items used according to law,3,25280
+Dallas,18,Prevent contamination from pesticides,3,25280
+Dallas,18,"First aid kit not to contaminate food, utensil",3,25280
+Dallas,18,Toxic applied accord. to restrict. on certific,3,25280
+Dallas,18,Toxic items storage adjacent to food/utensils,1,25280
+Dallas,18,Single Service-no deleterious substances,3,25280
+Dallas,18,Toxic items storage adjacent to food/utensils,3,25280
+Dallas,18,Licensed pest control applicator only,1,25280
+Dallas,18,Toxic Chemical Storage - Retail Sale,3,25280
+Dallas,18,Medicines labeled and stored properly,3,25280
+Dallas,18,Single Service use- materials safe,3,25280
+Dallas,18,"First aid kit not to contaminate food, utensil",1,25280
+Dallas,18,Pesticides applications/ hazard to employees,3,25280
+Dallas,18,Pesticides/ toxic tracking powder,3,25280
+Dallas,18,Use toxics according to additional condition,3,25280
+Dallas,18,"Chemical sanitizer generated onsite, chemical criteria",3,25280
+Dallas,18,Toxic items labeling for original container,3,25280
+Dallas,18,Use toxic according to manufacturer direction,1,25280
+Dallas,18,Pesticides and rodenticides application criteria,3,25280
+Dallas,18,Toxic items stored above food/utensils,1,25280
+Dallas,18,First aid supplies labeled.,3,25280
+Dallas,18,Cover items during pest control application,3,25280
+Dallas,18,Toxic items stored above food/utensils,3,25280
+Dallas,18,Restricted use pesticides,3,25280
+Dallas,18,Chemicals requirements in 40 CFR -Tolerance,3,25280
+Dallas,18,Toxic items storage adjacent to food/utensils,2,25280
+Dallas,18,Rodent bait stations,3,25280
+Dallas,18,Licensed pest control applicator only,3,25280
+Chicago,51,PLUMBING INSTALLED; PROPER BACKFLOW DEVICES,null,25130
+Dallas,02,Machine vending--automatic shut off-- Cold Hold (41øF/45øF or below),3,24876
+Dallas,02,Outfitter-Food Temperatures (Cold).,3,24876
+Dallas,02,Cold Hold (41øF/45øF or below),2,24876
+Dallas,02,<<<COLD HOLD (41øF)>>>,3,24876
+Dallas,02,Cold Hold (41øF/45øF or below),1,24876
+Dallas,02,Cold Hold (41øF/45øF or below),3,24876
+Dallas,02,Machine vending--Cold Hold (41øF/45øF or below) criteria,3,24876
+Dallas,02,Untreated shell eggs need to be at 45§F or <,3,24876
+Dallas,09,Juice packaged in retail under HACCP plan and obtain 5-log reduction,3,24256
+Dallas,09,Preventing contamination when tasting,3,24256
+Dallas,09,Food on display shall be protected from contamination,3,24256
+Dallas,09,Food protected cross contamination arrange each type food in equipment so cross is prevented,3,24256
+Dallas,09,"Food protected cross contamination separating types of raw animal food storage, preparation, hol",3,24256
+Dallas,09,"Raw ready to eat - Food protected from cross contamination by separating, storage, preparation,",3,24256
+Dallas,09,Shellfish tag - consumer information statment,3,24256
+Dallas,09,"Ice used as exterior coolant, prohibited as ingredient and may not be used as food",3,24256
+Dallas,09,"Ice used as exterior coolant, prohibited as ingredient and may not be used as food",1,24256
+Dallas,09,Consumer self-service ready-to-eat food provided with suitable utensils that protect food from c,3,24256
+Dallas,09,"B&B, Food shall be prepared and protected",3,24256
+Dallas,09,Food protected cross contamination by preparing each type of food at different times or in separ,3,24256
+Dallas,09,"Food protected cross contamination separating types of raw animal food storage, preparation, hol",2,24256
+Dallas,09,Molluscan shellfish life-support system display only,3,24256
+Dallas,09,"Raw unpackaged animal food, beef, lamb, pork, poultry, and fish may not be offered for consumer",3,24256
+Dallas,09,Only pasteurized prepackaged juice served,3,24256
+Dallas,09,"Cooked ready to eat - Food protected from cross contamination by separating, storage, preparatio",3,24256
+Dallas,09,Juice packaged in retail under HACCP plan and obtain 5-log reduction,2,24256
+Dallas,43,"Light - 20 foot : Buffet, salad, produce",1,23029
+Dallas,43,"Light - 20 foot : Washing, utensil, toilet",1,23029
+Dallas,43,"Light - 10 foot : Walk-in, Dry storage",1,23029
+Dallas,43,"Ventilation,mechanical",1,23029
+Dallas,43,Clean vent syst:Intake/exhaust air ducts,1,23029
+Dallas,43,"Light bulbs, light shields provided",2,23029
+Dallas,43,"Ventilation hood systems, adequacy",1,23029
+Dallas,43,Ventilation systems:no public health hazard,1,23029
+Dallas,43,"Light bulbs, light shields provided",1,23029
+Dallas,43,Light  20 foot :  Reach-in cooler,1,23029
+Dallas,43,Ventilation hood-prevent grease dripping,1,23029
+Dallas,43,Light - 50 foot : Food and utensils area,1,23029
+Dallas,43,Heating/ventilation: designed and installed,1,23029
+Chicago,10,"SEWAGE AND WASTE WATER DISPOSAL, NO BACK SIPHONAGE, CROSS  CONNECTION AND/OR BACK FLOW",null,22790
+Chicago,10,ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE,null,22790
+Dallas,19,"Plumbing design, construction, and install.",3,22141
+Dallas,19,No Hot Water / Water heater 50 gallon min.,3,22141
+Dallas,19,Water &  Plumbing in good repair- per code,3,22141
+Dallas,19,Water &  Plumbing in good repair- per code,1,22141
+Dallas,19,Plumbing System Construction - water filter,3,22141
+Dallas,19,Water &  Plumbing in good repair- per code,2,22141
+Dallas,19,Nondrinking Water Quality - Authority Approval,3,22141
+Dallas,19,No Hot Water / Water heater 50 gallon min.,1,22141
+Dallas,19,One Inch Air Gap,2,22141
+Dallas,19,Backflow prevention device - air gap,3,22141
+Dallas,19,"Backflow Prevention. The plumbing system shall preclude backflow of a solid, liquid, or gas cont",3,22141
+Dallas,19,Water Chemical properties. Records of all chemical testing shall be kept on site.,3,22141
+Dallas,19,Backflow prevention device - air gap,1,22141
+Dallas,19,Hand sink water temperature below 110'F,2,22141
+Dallas,19,Cross connection,3,22141
+Dallas,19,One Inch Air Gap,3,22141
+Dallas,19,Hand sink water temperature below 110'F,1,22141
+Dallas,19,Plumbing System Construction,3,22141
+Dallas,19,Water Chemical properties.  Food service facilities shall submit a water sample obtained from th,3,22141
+Dallas,19,"Water, Plumbing, and Waste Plumbing Systems",3,22141
+Dallas,19,Approved  Water Source,3,22141
+Dallas,19,Hand sink water temperature below 110'F,3,22141
+Dallas,19,"Water, Plumbing, fogging devices",3,22141
+Dallas,19,Water System Maintained,3,22141
+Dallas,19,No Hot Water / Water heater 50 gallon min.,2,22141
+Dallas,19,Backflow prevention device - installed,3,22141
+Dallas,19,Water System Maintained,2,22141
+Dallas,22,Fingernail maintenance,1,22000
+Dallas,22,Accredited food handler certificate - 60 days,1,22000
+Dallas,22,No unnecessary personnel allowed in food prep area,2,22000
+Dallas,22,Handlers-Certificate Not On Site,1,22000
+Dallas,22,Washing hands only at a designated hand sink,2,22000
+Dallas,22,Handlers-Certificate Not On Site,2,22000
+Dallas,22,Accredited food handler certificate - 60 days,2,22000
+Dallas,22,<<< RFSM / KNOWLEDGE / FOOD HANDLER  >>>,1,22000
+Dallas,22,BED AND BREAKFAST. Personal hygiene practices. Criteria,2,22000
+Dallas,22,Fingernail maintenance,2,22000
+Dallas,22,Handlers-Certificate Not On Site,3,22000
+Dallas,22,"Nail polish, fake nails, criteria",1,22000
+Dallas,22,Food employees may not care for or handle animals that may be present,2,22000
+Dallas,22,"Nail polish, fake nails, criteria",2,22000
+Dallas,22,Buffets shall be monitored by food handlers,2,22000
+Dallas,22,<<< RFSM / KNOWLEDGE / FOOD HANDLER  >>>,2,22000
+Dallas,22,PIC to ensure no unapproved indiv in food prep are,2,22000
+Dallas,29,Food thermometers provided and accessible,1,21881
+Dallas,29,Warewashing machines thermometer in F.rinse  tank,2,21881
+Dallas,29,"Sanitizing solutions, testing devices",2,21881
+Dallas,29,Thermometers to be accurate +/- 3'F,2,21881
+Dallas,29,Thermometer shall be easily readable,2,21881
+Dallas,29,Warewashing machines thermometer in wash tank,2,21881
+Dallas,29,Thermometers to be accurate +/-1.5 'C,2,21881
+Dallas,29,"Sanitizing solutions, testing devices",1,21881
+Dallas,29,Food thermometers provided and accessible,2,21881
+Dallas,29,Food thermometers--small diameter probe,2,21881
+Dallas,29,Thermometer-No glass sensor or stems,2,21881
+Dallas,29,Cold/hot hold unit thermometer easily viewable,2,21881
+Dallas,29,Thermometer calibrated to ensure accuracy,2,21881
+Dallas,29,Concentration of the sanitizing solution shall be accurately determined by using a test kit or o,2,21881
+Dallas,29,"Air, water, pressure / temperature devices",2,21881
+Dallas,29,Outfitter-Thermometer.,2,21881
+Dallas,29,Manual warewashing: thermometer provided,2,21881
+Dallas,29,Temperature Measuring- accurate +/- 2'F,2,21881
+Dallas,29,"Mechanical holding unit, thermometer location",2,21881
+Dallas,29,Cold/hot hold unit thermometer easily viewable,1,21881
+Dallas,29,Temperature Measuring- accurate +/- 2øF,2,21881
+Dallas,29,Food/water Temperature measuring device -Numerical scale,2,21881
+Chicago,56,ADEQUATE VENTILATION & LIGHTING; DESIGNATED AREAS USED,null,20634
+Chicago,40,PERSONAL CLEANLINESS,null,20032
+Chicago,40,REFRIGERATION AND METAL STEM THERMOMETERS PROVIDED AND CONSPICUOUS,null,20032
+Chicago,37,TOILET ROOM DOORS SELF CLOSING: DRESSING ROOMS WITH LOCKERS PROVIDED: COMPLETE SEPARATION FROM LIVING/SLEEPING QUARTERS,null,19704
+Chicago,37,FOOD PROPERLY LABELED; ORIGINAL CONTAINER,null,19704
+Chicago,58,ALLERGEN TRAINING AS REQUIRED,null,19535
+Chicago,5,PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS,null,19240
+Chicago,5,"PERSONNEL WITH INFECTIONS RESTRICTED: NO OPEN SORES, WOUNDS, ETC",null,19240
+Dallas,20,Grease Trap Tickets,2,17597
+Dallas,20,"FOOD,HANDWASH,LAVATORIES",3,17597
+Dallas,20,Grease Trap Tickets,3,17597
+Dallas,20,Sewer or septic tank location criteria,3,17597
+Dallas,20,Conveying Sewage,3,17597
+Dallas,20,Grease Trap Tickets,1,17597
+Dallas,20,Sewer/ Water line location criteria,3,17597
+Dallas,20,Conveying Sewage,2,17597
+Dallas,20,Backflow Device Direct Connection,3,17597
+Dallas,20,Sewage disposal thru public sewage plant,3,17597
+Chicago,18,PROPER COOKING TIME & TEMPERATURES,null,16981
+Chicago,18,"NO EVIDENCE OF RODENT OR INSECT OUTER OPENINGS PROTECTED/RODENT PROOFED, A WRITTEN LOG SHALL BE MAINTAINED AVAILABLE TO THE INSPECTORS",null,16981
+Chicago,2,CITY OF CHICAGO FOOD SERVICE SANITATION CERTIFICATE,null,16652
+Chicago,2,FACILITIES TO MAINTAIN PROPER TEMPERATURE,null,16652
+Chicago,30,PASTEURIZED EGGS USED WHERE REQUIRED,null,16245
+Chicago,30,"FOOD IN ORIGINAL CONTAINER, PROPERLY LABELED: CUSTOMER ADVISORY POSTED AS NEEDED",null,16245
+Chicago,53,"TOILET FACILITIES: PROPERLY CONSTRUCTED, SUPPLIED, & CLEANED",null,15673
+Dallas,14,When to wash hands between raw and RTE foods,3,14838
+Dallas,14,When to wash hands after handling soiled equip/utensil,3,14838
+Dallas,14,When to washWhen to wash hands after coughing/sneezing/eating/etc,3,14838
+Dallas,14,When to wash,3,14838
+Dallas,14,"Maintain hands, arms clean",3,14838
+Dallas,14,When to wash hands before donning new gloves,3,14838
+Dallas,14,Wash hands after all other activities,2,14838
+Dallas,14,When to wash Wash hands after using toilet,3,14838
+Dallas,14,Wash hands after all other activities,1,14838
+Dallas,14,Cleaning procedure--steps w/ clean water,2,14838
+Dallas,14,When to wash after handling animals/aquatics,3,14838
+Dallas,14,Gloves single use,3,14838
+Dallas,14,Cleaning procedure--steps -Dirty fingernails,3,14838
+Dallas,14,Cloth glove--use,3,14838
+Dallas,14,Cleaning procedure--steps Improper drying method,3,14838
+Dallas,14,<<<PLUMBING/WATER SOURCE/CAPACITY/HOT/COLD >>>,3,14838
+Dallas,14,Cleaning procedure--steps Improper drying method,2,14838
+Dallas,14,Hands wash procedures-without soap,3,14838
+Dallas,14,When to wash hands before donning new gloves,2,14838
+Dallas,14,Wash hands after all other activities,3,14838
+Dallas,14,When to wash hands,3,14838
+Dallas,14,Cleaning procedure--steps w/ clean water,3,14838
+Dallas,14,When to wash hands as often as necessary during prep,2,14838
+Dallas,14,When to wash hands as often as necessary during prep,3,14838
+Chicago,57,ALL FOOD EMPLOYEES HAVE FOOD HANDLER TRAINING,null,14829
+Chicago,16,"FOOD PROTECTED DURING STORAGE, PREPARATION, DISPLAY, SERVICE AND TRANSPORTATION",null,13431
+Chicago,16,FOOD-CONTACT SURFACES: CLEANED & SANITIZED,null,13431
+Chicago,43,IN-USE UTENSILS: PROPERLY STORED,null,12157
+Chicago,43,"FOOD (ICE) DISPENSING UTENSILS, WASH CLOTHS PROPERLY STORED",null,12157
+Dallas,41,Labeling-not required by the same owner,1,11581
+Dallas,41,concealed / altered dating information,1,11581
+Dallas,41,Food Label - Bulk food w/ manufatuter labeling,1,11581
+Dallas,41,Safe handling instructions for packaged raw meat,1,11581
+Dallas,41,Shucked shellfish removed & repacked: date on label,1,11581
+Dallas,41,Shellstock Identification,1,11581
+Dallas,41,Food Labeling - Bulk food for self dispensing,1,11581
+Dallas,41,Food shall be honestly presented,1,11581
+Dallas,41,Shucked shellfish removed & repacked: label reqs.,1,11581
+Dallas,41,"Food storage containers, identified with common name of food.",1,11581
+Dallas,41,Food identity and accurate representation,1,11581
+Dallas,41,Food Labeling - Bulk Food w/ Card or Sign,1,11581
+Dallas,41,Shucked shellfish outside of container/protected,1,11581
+Dallas,41,Shucked shellfish removed&repacked: info kept 90 days,1,11581
+Dallas,03,Food products not maintained at 135øF or above,2,11216
+Dallas,03,Food products not maintained at 135øF or above,3,11216
+Dallas,03,Outfitter-Food Temperatures (Hot).,3,11216
+Dallas,03,Vending Machine. Hot Hold (135øF or higher),3,11216
+Dallas,03,Food products not maintained at 135øF or above,1,11216
+Dallas,03,<<<HOT HOLD (135øF)>>>,3,11216
+Chicago,39,"CONTAMINATION PREVENTED DURING FOOD PREPARATION, STORAGE & DISPLAY",null,11206
+Chicago,39,LINEN: CLEAN AND SOILED PROPERLY STORED,null,11206
+Dallas,07,"Parasite destruction, shall be frozen at -31øF or below and stored -31øF for 15 hours",2,11158
+Dallas,07,Molluscan shellfish from an approved source (NSSP listed sources),3,11158
+Dallas,07,Pre-packaged juice- processor HACCP plan,3,11158
+Dallas,07,"Parasite destruction, shall be frozen at -31øF or below and stored -31øF for 15 hours",3,11158
+Dallas,07,"Food safe, good condition, unadulterated, and honestly presented",3,11158
+Dallas,07,"Parasite destruction, shall be frozen and stored at a temperature of -4øF or below for (7 days)",1,11158
+Dallas,07,Food hermetically sealed shall be obtained from food processing plant regulated by the regulator,3,11158
+Dallas,07,Eggs received clean and sound and may not exceed the restricted egg tolerances for U.S. Consumer,3,11158
+Dallas,07,"Food prepared in a private home, unlicensed food manufacturer, wholesaler, may not use in a esta",2,11158
+Dallas,07,Packaged food shall be labeled as specified in law,2,11158
+Dallas,07,TCS food dispensed through a vending machine shall be in original container,3,11158
+Dallas,07,"Food safe, good condition, unadulterated, and honestly presented",1,11158
+Dallas,07,Packaged food shall be labeled as specified in law,3,11158
+Dallas,07,Ice use as food or cooling medium shall be made from drinking water,3,11158
+Dallas,07,Food obtained from sources that comply with applicable laws,3,11158
+Dallas,07,"Parasite destruction, shall be frozen and stored at a temperature of -4øF or below for (7 days)",3,11158
+Dallas,07,"B&B, Food shall be obtained from approved sources",3,11158
+Dallas,07,"Food safe, good condition, unadulterated, and honestly presented",2,11158
+Dallas,07,Pasteurized eggs or egg products shall be substituted for raw shell eggs in prep of foods that a,3,11158
+Dallas,07,Outfitter-Approved Food Supplies,3,11158
+Dallas,07,"Food prepared in a private home, unlicensed food manufacturer, wholesaler, may not use in a esta",3,11158
+Chicago,45,SINGLE-USE/SINGLE-SERVICE ARTICLES: PROPERLY STORED & USED,null,11126
+Chicago,45,FOOD HANDLER REQUIREMENTS MET,null,11126
+Chicago,21,PROPER HOT HOLDING TEMPERATURES,null,10787
+Chicago,21,* CERTIFIED FOOD MANAGER ON SITE WHEN POTENTIALLY HAZARDOUS FOODS ARE  PREPARED AND SERVED,null,10787
+Chicago,31,WATER & ICE FROM APPROVED SOURCE,null,9900
+Chicago,31,CLEAN MULTI-USE UTENSILS AND SINGLE SERVICE ARTICLES PROPERLY STORED: NO REUSE OF SINGLE SERVICE ARTICLES,null,9900
+Dallas,46,Covered waste receptacle for women's restroom,1,8802
+Dallas,46,"Water, Plumbing, and Waste Plumbing Systems",1,8802
+Dallas,46,Backflow prevention device -not serviced and maintained,3,8802
+Dallas,46,"Toilet tissue, availability",1,8802
+Dallas,46,"Service Sinks,availability",1,8802
+Dallas,46,"Plumbing design, construction, and installation",1,8802
+Dallas,46,Number of Toilets and urinals,1,8802
+Dallas,46,"Water, Plumbing, and Waste Plumbing Systems-good repair",1,8802
+Dallas,46,Physical Facilities Premises-closing toilet room doors,1,8802
+Dallas,46,"Toilets, urinals and showers not used as a service sink",1,8802
+Dallas,46,Backflow prevention device -not serviced and maintained,1,8802
+Dallas,46,"Toilet rooms, convenience and accessibility",1,8802
+Dallas,46,Bed and Breakfast Employee Restrooms,1,8802
+Dallas,46,Physical Facilities Premises,1,8802
+Dallas,46,Enclosed toilet room w/self closing doors,1,8802
+Dallas,46,A ware washing sink not used for hand washing or dumping mop water,1,8802
+Dallas,46,Toilets/urinals shall be provided:minimum number,1,8802
+Dallas,24,Food Label-list of ingredients in descending..,2,8079
+Dallas,24,Food Label - declaration of the quantity,2,8079
+Dallas,24,Shellstock tags not commingled,2,8079
+Dallas,24,Food Labeling- with common name of the food,2,8079
+Dallas,24,Shellfish tags kept for 90 days: do not mix shellstock,2,8079
+Dallas,24,Shellfish tags kept for 90 days: record keeping,2,8079
+Dallas,24,Food Label- manufacture/packer/distrubtor name,2,8079
+Dallas,24,Shellfish tags to remain attached to container,2,8079
+Dallas,24,Shellfish tag - date of harvesting,2,8079
+Dallas,24,"Food packaged in a establishment, shall be labeled as specified in law",2,8079
+Dallas,24,Shellfish tag - Statement required on label in bold,2,8079
+Dallas,24,Food Labeling- with common name of the food,1,8079
+Dallas,24,Raw Shucked Shellfish labeled w/ sell by date,2,8079
+Dallas,24,Shellfish tags kept for 90 days: preserve source ID info,2,8079
+Dallas,24,Food Label- manufacture/packer/distrubtor name,1,8079
+Dallas,24,Food Label - Nutrition Labeling,2,8079
+Dallas,24,Shellfish label w/ name. address,2,8079
+Dallas,24,Shellfish tag-same as (i)(1)(A)(II)-(IV),2,8079
+Dallas,24,"If raw, raw-marinated, partially cooked, or marinated-partially cooked fish are served or sold i",2,8079
+Chicago,48,"WAREWASHING FACILITIES: INSTALLED, MAINTAINED & USED; TEST STRIPS",null,7980
+Chicago,22,PROPER COLD HOLDING TEMPERATURES,null,7401
+Chicago,22,"DISH MACHINES: PROVIDED WITH ACCURATE THERMOMETERS, CHEMICAL TEST KITS AND SUITABLE GAUGE COCK",null,7401
+Dallas,06,Discard TCS in vending machine if exceeds time/temp,3,6924
+Dallas,06,Time as PHC: within 4 hours provide written procedures methods of compliance public health contr,3,6924
+Dallas,06,Time as PHC:provide written procedures on site,3,6924
+Dallas,06,Discard TCS if date marked exceeds temp & time,3,6924
+Dallas,06,"Time as PHC: Cooked and served, within 4 hours, exceed a 4-hour limit shall be discarded",3,6924
+Dallas,06,"Time as PHC: Cooked and served, within 4 hours, exceed a 4-hour limit shall be discarded 4 hours",3,6924
+Dallas,06,Discard if TCS is in container w/ no date or day,3,6924
+Dallas,06,Time as PHC: maximum of 4 hours limit food in unmarked containers or packages,3,6924
+Dallas,06,Time as PHC: 4 hours provide written procedures methods of compliance,3,6924
+Chicago,29,PREVIOUS MINOR VIOLATION(S) CORRECTED 7-42-090,null,6904
+Chicago,29,COMPLIANCE WITH VARIANCE/SPECIALIZED PROCESS/HACCP,null,6904
+Chicago,42,APPROPRIATE METHOD OF HANDLING OF FOOD (ICE) HAIR RESTRAINTS AND CLEAN APPAREL WORN,null,6450
+Chicago,42,WASHING FRUITS & VEGETABLES,null,6450
+Chicago,23,"DISHES AND UTENSILS FLUSHED, SCRAPED, SOAKED",null,6421
+Chicago,23,PROPER DATE MARKING AND DISPOSITION,null,6421
+Chicago,60,PREVIOUS CORE VIOLATION CORRECTED,null,6312
+Dallas,44,Trash cans and designated storage areas,1,6243
+Dallas,44,"Water, Plumbing, and Waste Sewage",1,6243
+Dallas,44,Indoor storage surfaces,1,6243
+Dallas,44,Using drain plugs,1,6243
+Dallas,44,Disposal towels provided with waste receptacle as specified in 228.152(g)(2),1,6243
+Dallas,44,Grease Trap Location,1,6243
+Dallas,44,"Frequency. Refuse, recyclables/returnables removed",1,6243
+Dallas,44,"Water, Plumbing, and Waste Disposal- Rainwater, liquid waste",1,6243
+Dallas,44,Maintaining refuse areas and enclosures,1,6243
+Dallas,44,Only rodent-resistant containers for outside waste,1,6243
+Dallas,44,Outdoor enclosures constructed,1,6243
+Dallas,44,Indoor Trash Can Cover,1,6243
+Dallas,44,"Outdoor refuse areas, curbed and graded to drain",1,6243
+Dallas,44,"Receptacles tight fitting lids, doors, or covers",1,6243
+Dallas,44,Receptacles sufficient capacity,1,6243
+Dallas,44,Soiled receptacles and waste handling units cleaned,1,6243
+Dallas,44,Receptacles and waste Units-contructed,1,6243
+Dallas,44,Location of refuse/recycling storage areas,1,6243
+Dallas,44,Trash can provided for papertowel waste,1,6243
+Dallas,44,Receptacles in vending machines,1,6243
+Dallas,44,Refuse/recyclables to be stored in proper contain.,1,6243
+Dallas,44,"Receptacles/vehicles- removal of refuse, recyclables",1,6243
+Dallas,44,Waste receptacles outdoors/tight fitting lids,1,6243
+Dallas,44,Covering receptacles if not in continuous use,1,6243
+Dallas,44,Receptacles provided in each area of the food establishment,1,6243
+Dallas,44,Liquid waste holding tank shall be labeled as #waste water#,1,6243
+Dallas,44,Outfitter-Garbage receptacles,1,6243
+Dallas,44,Solid waste to be discarded in approved landfill,1,6243
+Dallas,44,"Receptacles prevent debris, insect, rodents, allow for cleaning",1,6243
+Dallas,44,Refuse/recyclables area maintained in good repair,1,6243
+Dallas,44,Grease Trap Location,2,6243
+Dallas,44,Covering receptacles after filled,1,6243
+Dallas,44,Trash can provided for papertowel waste,2,6243
+Dallas,44,Grease Trap Location,3,6243
+Dallas,44,Waste Receptacles thoroughly cleaned,1,6243
+Dallas,44,Waste Storage location Nuisance,1,6243
+Chicago,25,"TOXIC ITEMS PROPERLY STORED, LABELED AND USED",null,6038
+Chicago,25,CONSUMER ADVISORY PROVIDED FOR RAW/UNDERCOOKED FOOD,null,6038
+Chicago,54,GARBAGE & REFUSE PROPERLY DISPOSED; FACILITIES MAINTAINED,null,5668
+Chicago,1,"PERSON IN CHARGE PRESENT, DEMONSTRATES KNOWLEDGE, AND PERFORMS DUTIES",null,5596
+Chicago,1,"SOURCE SOUND CONDITION, NO SPOILAGE, FOODS PROPERLY LABELED, SHELLFISH TAGS IN PLACE",null,5596
+Dallas,,,2,5539
+Dallas,,,4,5539
+Dallas,,,3,5539
+Dallas,,,1,5539
+Dallas,40,Milk container dispensing tube shall be cut.......,1,5319
+Dallas,40,Reuse of single service articles,1,5319
+Dallas,40,Single use articel wrapped or dispensed,1,5319
+Dallas,40,Reuse of Mollusk & crustacea shells,1,5319
+Dallas,40,Reuse of single service articles,2,5319
+Dallas,40,"Handle & dispense of cleaned utensils, single-use",1,5319
+Dallas,40,Store single-service item in original package,1,5319
+Dallas,27,"Bed and Breakfast Hot and Cold Holding, Equipment capacity",2,4830
+Dallas,27,"Cooling, heating, and holding capacities. Equipment",1,4830
+Dallas,27,"Cooling method, criteria -  smaller portions",2,4830
+Dallas,27,Cool TCS foods using other effective means,2,4830
+Dallas,27,"Cooling method, criteria - using ice bath",2,4830
+Dallas,27,"Cooling method, criteria - placing the food in shallow pans",2,4830
+Dallas,27,Cool TCS foods using proper methods,2,4830
+Dallas,27,"Cooling method, criteria - rapid cooling equipment",2,4830
+Dallas,27,Cool TCS foods using ice as an ingredient,2,4830
+Dallas,27,"Cooling, heating, and holding capacities. Equipment",2,4830
+Dallas,38,Thawing. under running water criteria -thawed RTE <41F,1,4743
+Dallas,38,"Time/temperature controlled for safety food, slacking",1,4743
+Dallas,38,Thawing. under running water criteria - water velocity,1,4743
+Dallas,38,TCS food shall be thawed as part of a cooking process if the food that is frozen is thawed in a,1,4743
+Dallas,38,"Except as specified in paragraph (4) of this subsection, time/temperature controlled for safety",1,4743
+Dallas,38,TCS food shall be thawed using any procedure if a portion of frozen ready-to-eat food is thawed,1,4743
+Dallas,38,Thawing. under running water criteria - < 4 hours,1,4743
+Dallas,38,"Time/temperature controlled for safety food, slacking. Food temperature at 5 degrees Celsius (41",1,4743
+Dallas,38,Thawing. under running water criteria,1,4743
+Dallas,38,Frozen food. Stored frozen foods shall be maintained frozen,1,4743
+Dallas,38,Thawing. under running water criteria  (70 degrees Fahrenheit) or below;,1,4743
+Dallas,38,Thawing. Under  refrigeration,1,4743
+Dallas,15,Bare hands contact with ready-to-eat foods,3,4685
+Dallas,15,Contact RTE Products w/ Bare Hands,3,4685
+Dallas,15,Highly susceptible population--bare hand contact prohibited,3,4685
+Dallas,15,Limit bare hand contact with all other foods,3,4685
+Dallas,15,Bare hands contact with ready-to-eat foods,2,4685
+Dallas,15,Contact RTE Products w/ Bare Hands,2,4685
+Dallas,15,Written procedures maintained for bare hand contact,2,4685
+Chicago,44,"UTENSILS, EQUIPMENT & LINENS: PROPERLY STORED, DRIED, & HANDLED",null,4559
+Chicago,44,ONLY AUTHORIZED PERSONNEL IN THE FOOD-PREP AREA,null,4559
+Chicago,19,PROPER REHEATING PROCEDURES FOR HOT HOLDING,null,4346
+Chicago,19,"OUTSIDE GARBAGE WASTE GREASE AND STORAGE AREA; CLEAN, RODENT PROOF, ALL CONTAINERS COVERED",null,4346
+Dallas,25,HACCP-Additional Scientific Data Support,2,4075
+Dallas,25,Compliance HACCP Monitoring CCP,2,4075
+Dallas,25,HACCP-Plan submitted,2,4075
+Dallas,25,"Obtain variance: sprouting seeds or beans, such as wheat grass and Alfa spouts",2,4075
+Dallas,25,When plans are required.  The remodeling of a food establishment or a change of type of food est,2,4075
+Dallas,25,Compliance and Enforcement Variances-documentatio,2,4075
+Dallas,25,HACCP-PIC action to be taken,2,4075
+Dallas,25,Obtain variance: Molluscan shellfish life-support system display tank,2,4075
+Dallas,25,Chemical sanitizer generated by a device on-site shall be produced by a device that displays the,2,4075
+Dallas,25,Reduced Oxygen HACCP Plan - packaged,2,4075
+Dallas,25,Have HACCP plan: reduced oxygen packaging,2,4075
+Dallas,25,Rodent control: using control methods,2,4075
+Dallas,25,"Controlling pests. The presence of insects, rodents, and other pests shall be controlled to elim",2,4075
+Dallas,25,Reduces oxygen package,3,4075
+Dallas,25,Obtain Variance: reduce oxygen packaging,2,4075
+Dallas,25,HACCP-Method for monitoring & controlling,2,4075
+Dallas,25,Reduces oxygen package-safe operation training,2,4075
+Dallas,25,Curing food obtain variance,2,4075
+Dallas,25,HACCP-Categorization of  the types of TCS foods,2,4075
+Dallas,25,"Controlling pests. The presence of insects, rodents, and other pests shall be controlled to elim",1,4075
+Dallas,25,HACCP Approved Procedures,2,4075
+Dallas,25,HACCP CORRECTIVE ACTIONS C.C.P.,2,4075
+Dallas,25,Variance for smoking food preservation,2,4075
+Dallas,25,Chemical sanitizer generated by a device located on-site shall be produced by a device that is o,2,4075
+Dallas,25,Obtain Variance: using food additives or adding components such as vinegar: as a method of food,2,4075
+Dallas,25,Non PFH beverages container may be refilled,2,4075
+Dallas,25,Preparing food determined by the regulatory authority to require a variance,2,4075
+Dallas,25,Devices used for on-site generation of chemicals used in the washing/peeling of fruits and veget,2,4075
+Dallas,25,HACCP-Employee and Supervisory Training Plan,2,4075
+Dallas,25,HACCP-Identifying each Critical Control Point,2,4075
+Dallas,25,HACCP-Diagram Identifying CCP w/ ingredients,2,4075
+Dallas,25,HACCP-Critical limits of each CCP,2,4075
+Dallas,25,Reduces oxygen package,2,4075
+Dallas,25,Maintain CCP Documentation Records,2,4075
+Dallas,25,HACCP-Formulations & procedural control,2,4075
+Dallas,25,Prevention of Clostridium Botulinum by ph 4.6<,2,4075
+Dallas,25,Reduces oxygen package-procedures (2)( E),2,4075
+Dallas,25,Have HACCP Plan: Molluscan shellfish display tanks,2,4075
+Dallas,25,Compliance HACCP Verification,2,4075
+Dallas,25,HACCP Plan Record to be maintained,2,4075
+Dallas,25,HACCP-Verify employee is following standard,2,4075
+Dallas,33,Two-comp. sink-detergent-sanitizer label  instruction,2,3954
+Dallas,33,Warewashing manufacturer's operating instuctions,2,3954
+Dallas,33,Washing procedures selected based on type,2,3954
+Dallas,33,"Warewashing machine, sink - cleaned every 24 hrs",2,3954
+Dallas,33,"Warewashing sinks and drain boards, self-draining.",2,3954
+Dallas,33,Two comp. sink - no continuous warewahing process,2,3954
+Dallas,33,"Warewash - Wash cycle temp. of multitank, conveyor,",2,3954
+Dallas,33,"Mechanical warewashing equip., sanitization pressure",2,3954
+Dallas,33,Sink used to wash cloths/produce or thaw food,2,3954
+Dallas,33,Warewashing machine data plate w conveyor speed,2,3954
+Dallas,33,"Bed and Breakfast -- Manual. A three compartment sink shall be used if washing, rinsing and sani",2,3954
+Dallas,33,Rinsing procedures -  2 compartment sink,2,3954
+Dallas,33,Rinsing procedures - CIP,2,3954
+Dallas,33,Washed immediately after application of sanitizer,2,3954
+Dallas,33,"Mech. warewash, hot water sanitizing, other machines",2,3954
+Dallas,33,Manual warewashing-hot water sanitizing 171øF,2,3954
+Dallas,33,"Warewashing machines, flow pressure device",2,3954
+Dallas,33,Warewash- Wash cycle temp. of dual temp. machine,2,3954
+Dallas,33,"Mechanical warewashing equip., wash solution temp.",2,3954
+Dallas,33,"Warewashing machine, sink - cleaned before use",2,3954
+Dallas,33,"Mechanical warewashing, hot water sanitizing",2,3954
+Dallas,33,"Manual warewashing equipment, wash solution temp.",2,3954
+Dallas,33,"Warewashing equipment, clean solutions.",2,3954
+Dallas,33,Before a two-compartment sink is used criteria,2,3954
+Dallas,33,Two-compartment sink make up and drain sanitizer,2,3954
+Dallas,33,Service sink or one curbed cleaning facility provided,2,3954
+Dallas,33,"Warewash- Wash cycle temp. of single tank, conveyor",2,3954
+Dallas,33,Sink compartments shall be large enough,2,3954
+Dallas,33,"Warewashing machine, sink - cleaning frequency",2,3954
+Dallas,33,"Warewashing - Soiled ware  loaded into rack, tray",2,3954
+Dallas,33,Rinsing Equipment and Utensils after Cleaning and Sanitizing,2,3954
+Dallas,33,Detergent-sanitizer for CIP,2,3954
+Dallas,33,Warewashing machines not apply to pumped rinse,2,3954
+Dallas,33,Warewashing machine recycles sanitizing solution,2,3954
+Dallas,33,"Manual ware washing, sink compartment requirement",2,3954
+Dallas,33,Warewashing machines auto. dispense detergents,2,3954
+Dallas,33,Remove soils from equipment & utensils,2,3954
+Dallas,33,Warewash - Wash cycle temp. of chem. Sanitizer,2,3954
+Dallas,33,"Warewashing equipment, cleaning agents",2,3954
+Dallas,33,Warewashing machine data plate w required temp.,2,3954
+Dallas,33,Washed as specified - oversized equipment,2,3954
+Dallas,33,Sanitizing solution intergrated in dish. machine,2,3954
+Dallas,33,Rinsing procedure - alternative manual warewashing,2,3954
+Dallas,33,Detergent-sanitizer must be approved,2,3954
+Dallas,33,Water maintained at 171øF or above for manual wash,2,3954
+Dallas,33,Rinsing procedures - 3 compartment sink,2,3954
+Dallas,33,Manual warewashing-hot water sanitizing basket,2,3954
+Dallas,30,Food Establishment Permit,1,3765
+Dallas,30,Food Establishment Permit,2,3765
+Dallas,30,Does Establishment have a current valid permit posted?,2,3765
+Dallas,30,Bed and Breakfast Establishments,2,3765
+Chicago,11,"ADEQUATE NUMBER, CONVENIENT, ACCESSIBLE, DESIGNED, AND MAINTAINED",null,3764
+Chicago,11,FOOD OBTAINED FROM APPROVED SOURCE,null,3764
+Dallas,12,"Has been exposed to, or is the suspected source of, a confirmed disease outbreak, because the fo",3,3672
+Dallas,12,PIC notify regulatory authority when a food employee is jaundiced or diagnosed with an illness,3,3672
+Dallas,12,Report Sickness,3,3672
+Dallas,12,Report Disease -hepatitus A virus,3,3672
+Dallas,12,Gloves Single Use,3,3672
+Dallas,12,Reporting diagnosed shiga toxin-producing E. Coli,3,3672
+Dallas,12,Lesions containing pus such as a boil or infected wound that is open or draining,3,3672
+Dallas,12,Gloves Single Use,2,3672
+Dallas,12,"Had a previous illness, diagnosed by a Health Practitioner, within the past 3 months due to Salm",3,3672
+Dallas,12,Report Sickness,2,3672
+Dallas,12,Applicant must report vomiting symptoms,3,3672
+Dallas,12,Sore throat with fever Symptoms,3,3672
+Dallas,12,"Licensures food employee exhibits or reports a symptom, or diagnosed illness EXCLUDED or RESTRIC",3,3672
+Dallas,12,"PIC ensure conditional employee who exhibits or reports a symptom, or who reports diagnosed illn",3,3672
+Dallas,12,Lesionson on other parts of the body,3,3672
+Dallas,12,A food employee or conditional employee shall report to PIC the information as specified under (,3,3672
+Dallas,12,A food employee shall comply with an exclusion or RESTRICTION,3,3672
+Chicago,8,HANDS CLEAN & PROPERLY WASHED,null,3463
+Chicago,8,"SANITIZING RINSE FOR EQUIPMENT AND UTENSILS:  CLEAN, PROPER TEMPERATURE, CONCENTRATION, EXPOSURE TIME",null,3463
+Chicago,24,TIME AS A PUBLIC HEALTH CONTROL; PROCEDURES & RECORDS,null,3315
+Chicago,24,"DISH WASHING FACILITIES: PROPERLY DESIGNED, CONSTRUCTED, MAINTAINED, INSTALLED, LOCATED AND OPERATED",null,3315
+Chicago,12,FOOD RECEIVED AT PROPER TEMPERATURE,null,3061
+Chicago,12,"HAND WASHING FACILITIES: WITH SOAP AND SANITARY HAND DRYING DEVICES, CONVENIENT AND ACCESSIBLE TO FOOD PREP AREA",null,3061
+Chicago,6,"PROPER EATING, TASTING, DRINKING, OR TOBACCO USE",null,2478
+Chicago,6,"HANDS WASHED AND CLEANED, GOOD HYGIENIC PRACTICES; NO BARE HAND CONTACT WITH READY-TO-EAT FOODS.",null,2478
+Chicago,14,"REQUIRED RECORDS AVAILABLE: SHELLSTOCK TAGS, PARASITE DESTRUCTION",null,2307
+Chicago,14,"PREVIOUS SERIOUS VIOLATION CORRECTED, 7-42-090",null,2307
+Chicago,9,"WATER SOURCE: SAFE, HOT & COLD UNDER CITY PRESSURE",null,2277
+Chicago,9,NO BARE HAND CONTACT WITH RTE FOOD OR A PRE-APPROVED ALTERNATIVE PROCEDURE PROPERLY ALLOWED,null,2277
+Chicago,52,SEWAGE & WASTE WATER PROPERLY DISPOSED,null,2221
+Dallas,01,"Cooling -- total 6 hours, 135-41øF",3,2197
+Dallas,01,"Cooling -- within 2 hours, 135-70øF",3,2197
+Dallas,01,Raw shelled eggs immediately placed at 41øF,3,2197
+Dallas,01,Cooling -- ingredients from ambient within 4 hours to 41øF,3,2197
+Dallas,01,Cooling -- ingredients from ambient within 4 hours to 41øF,2,2197
+Chicago,28,* INSPECTION REPORT SUMMARY DISPLAYED AND VISIBLE TO ALL CUSTOMERS,null,1911
+Chicago,28,"TOXIC SUBSTANCES PROPERLY IDENTIFIED, STORED, & USED",null,1911
+Dallas,23,"Public Water, Plumbing, and Waste Water Distribution Approved",2,1848
+Dallas,23,Water pressure specifications,3,1848
+Dallas,23,"Water, Plumbing, and Waste Water Distribution",2,1848
+Dallas,23,Does the establishment have sufficient capacity to meet peak hot water demands?,2,1848
+Dallas,23,"Water, Plumbing,& Waste Water - Pressure",2,1848
+Dallas,23,No Water,2,1848
+Dallas,23,"Water, Plumbing, and Waste Plumbing Systems- Inspection and serving",2,1848
+Dallas,23,Water capacity specifications,2,1848
+Dallas,23,Water pressure specifications,2,1848
+Dallas,23,"Water, Plumbing, and Waste Plumbing Systems-piping",2,1848
+Dallas,23,"Private Water, Plumbing, and Waste Water Distribution-Approved",2,1848
+Chicago,61,SUMMARY REPORT DISPLAYED AND VISIBLE TO THE PUBLIC,null,1807
+Chicago,59,PREVIOUS PRIORITY FOUNDATION VIOLATION CORRECTED,null,1742
+Dallas,26,<<CONSUMER ADVISORY(HEIMLIC/SHELLFISH/BUFFET>>,2,1689
+Dallas,26,"Food Labeling-consumer,nutritional information",2,1689
+Dallas,26,<<CONSUMER ADVISORY(HEIMLIC/SHELLFISH/BUFFET>>,1,1689
+Dallas,26,Consumer Advisory--salad bar or buffet --- use of clean tableware to return,2,1689
+Dallas,26,Consumer Advisory--Reminder specifications,2,1689
+Dallas,26,Consumer Advisory Disclosure---asterisking,2,1689
+Dallas,26,Consumer Advisory--Disclosure--description criteria,2,1689
+Dallas,26,Food Consumer Advisory-raw food,2,1689
+Dallas,26,Whole - muscle undercook label/pkg/prep on site,2,1689
+Dallas,26,Non Pasteurized Juice properly labeled,2,1689
+Dallas,26,"Advisory- ""consuming raw#."" alternate text",2,1689
+Dallas,26,Allergen Labeling,2,1689
+Dallas,26,"Advisory-""consuming raw or undercooked#"" text",2,1689
+Chicago,50,HOT & COLD WATER AVAILABLE; ADEQUATE PRESSURE,null,1459
+Chicago,26,"ADEQUATE NUMBER, CONVENIENT, ACCESSIBLE, PROPERLY DESIGNED AND INSTALLED",null,1439
+Chicago,26,PASTEURIZED FOODS USED; PROHIBITED FOODS NOT OFFERED,null,1439
+Dallas,13,"Discharges from the Eyes, Nose, a3nd Mouth",3,1367
+Dallas,13,Exclusions and Restrictions,3,1367
+Chicago,13,"NO EVIDENCE OF RODENT OR INSECT INFESTATION, NO BIRDS, TURTLES OR OTHER ANIMALS",null,857
+Chicago,13,"FOOD IN GOOD CONDITION, SAFE, & UNADULTERATED",null,857
+Dallas,11,Food Disposition-Contaminated Food by contact,3,822
+Dallas,11,"Food Disposition, Contaminated Food",3,822
+Dallas,11,Food Donations - Distressed foods,3,822
+Dallas,11,Food Donations Labeling,3,822
+Dallas,11,Food Disposition - reconditioned Food,3,822
+Dallas,11,"Distressed merchandise, segregation and location",3,822
+Dallas,11,"Food Donations- transpotation,storage & reheat",3,822
+Dallas,11,Donated TCS food cold hold 41øF,3,822
+Dallas,11,Food not re-served after being served or sold to consumer,3,822
+Dallas,11,Food Disposition - Contaminated by employee,3,822
+Dallas,11,"Distressed merchandise, segregation and location",1,822
+Dallas,11,Food Donations-No previously served may donate,3,822
+Chicago,64,MISCELLANEOUS / PUBLIC HEALTH ORDERS,null,706
+Chicago,15,UNWRAPPED AND POTENTIALLY HAZARDOUS FOOD NOT RE-SERVED,null,579
+Chicago,15,FOOD SEPARATED AND PROTECTED,null,579
+Chicago,70,NO SMOKING REGULATIONS,null,558
+Dallas,05,Commercially processed ready-to-eat (RTE) food reheat 135øF or above,2,547
+Dallas,05,<<<RAPID REHEATING (165øF in 2 HOURS)>>>,3,547
+Dallas,05,Reheat 165øF--microwave,3,547
+Dallas,05,Roasts reheat for hot holding,3,547
+Dallas,05,Commercially processed ready-to-eat (RTE) food reheat 135øF or above,3,547
+Dallas,05,Reheat from 41øF to 165øF within 2 hours and/or Commercially processed RTE foods reheated from 4,3,547
+Dallas,05,Rapidly reheat 165øF for hot holding,3,547
+Chicago,4,PROPER USE OF RESTRICTION AND EXCLUSION,null,531
+Chicago,4,"SOURCE OF CROSS CONTAMINATION CONTROLLED I.E. CUTTING BOARDS, FOOD  HANDLERS, UTENSILS, ETC",null,531
+Chicago,27,"TOILET ROOMS ENCLOSED CLEAN, PROVIDED WITH HAND CLEANSER, SANITARY HAND DRYING DEVICES AND PROPER WASTE RECEPTACLES",null,408
+Chicago,27,FOOD ADDITIVES: APPROVED AND PROPERLY USED,null,408
+Dallas,6,Discard PHF is exceeds time/temp combinations,3,286
+Chicago,46,GLOVES USED PROPERLY,null,261
+Chicago,20,"INSIDE CONTAINERS OR RECEPTACLES: ADEQUATE NUMBER, PROPERLY COVERED AND INSECT/RODENT PROOF",null,231
+Chicago,20,PROPER COOLING TIME AND TEMPERATURE,null,231
+Chicago,62,COMPLIANCE WITH CLEAN INDOOR AIR ORDINANCE,null,198
+Chicago,7,WASH AND RINSE WATER: CLEAN AND PROPER TEMPERATURE,null,165
+Chicago,7,"NO DISCHARGE FROM EYES, NOSE, AND MOUTH",null,165
+Chicago,17,"PROPER DISPOSITION OF RETURNED, PREVIOUSLY SERVED, RECONDITIONED & UNSAFE FOOD",null,161
+Chicago,17,POTENTIALLY HAZARDOUS FOOD PROPERLY THAWED,null,161
+Dallas,08,Raw shell eggs received at 45øF or less,3,105
+Dallas,08,A food labeled frozen and shipped frozen shall be received frozen,3,105
+Dallas,08,TCS with previous temperature abuse @ receipt,3,105
+Dallas,08,Specifications for Receiving temperature at 41øF or less,3,105
+Dallas,08,Cooked TCS foods received at 135øF or less,3,105
+Dallas,04,Raw eggs prepared for immediate service cooked to 145øF for 15 seconds,3,84
+Dallas,04,Microwave cooking criteria (heated to 165øF),3,84
+Dallas,04,"Are all other raw animal foods (such as seafood, pork) cooked to 145øF for 15 seconds",3,84
+Dallas,04,"Is whole-muscle, intact beef steaks cooked to surface temperature of 145øF on top and bottom",3,84
+Dallas,04,"Fruits, vegetables or other plant based foods cooked to a minimum of 135øF for hot holding",3,84
+Dallas,04,Is Poultry; stuffed fish/meat/pasta/poultry/ratites cooked to 165øF for 15 seconds,3,84
+Chicago,63,REMOVAL OF SUSPENSION SIGN,null,48
+Dallas,17,Unapproved food or color additives. Prohibited,3,48
+Dallas,17,Unapproved food or color additives level. Prohibited,3,48
+Dallas,17,Drying agents: Contains safe components,3,48
+Dallas,17,Toxic materials/ lubricants,3,48
+Dallas,17,Drying agents: Generally Regarded as Safe,3,48
+Dallas,17,Food may not contain unapproved additives or additives that don't exceed CFR criteria,3,48
+Dallas,9,Reduces oxygen package - fish requirement,3,27
+Dallas,9,Reduced Oxygen HACCP Plan,3,27
+Dallas,16,Raw or partially cooked animal food and raw seed sprouts not served,3,23
+Dallas,16,No bare hand contact @ HSP establishment,3,23
+Dallas,16,Substitued pasteurized eggs/broken eggs....,3,23
+Dallas,7,Private homes/ living or sleeping quarters,3,21
+Dallas,7,"Eggs and milk products, pasteurized",3,21
+Dallas,7,Private homes/ living or sleeping quarters,1,21

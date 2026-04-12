@@ -1,0 +1,555 @@
+source_city,risk_category,facility_type,inspection_count
+Dallas,null,null,135019
+Chicago,Risk 1 (High),Restaurant,127496
+Chicago,Risk 2 (Medium),Restaurant,25080
+Chicago,Risk 1 (High),School,15093
+Chicago,Risk 1 (High),Grocery Store,9996
+Chicago,Risk 2 (Medium),Grocery Store,8379
+Chicago,Risk 3 (Low),Grocery Store,8213
+Chicago,Risk 1 (High),Children's Services Facility,5222
+Chicago,Risk 1 (High),Daycare Above and Under 2 Years,3061
+Chicago,Risk 1 (High),Daycare (2 - 6 Years),2172
+Chicago,Risk 1 (High),Long Term Care,1978
+Chicago,Risk 2 (Medium),Bakery,1738
+Chicago,Risk 1 (High),Bakery,1581
+Chicago,Risk 1 (High),Catering,1172
+Chicago,Risk 3 (Low),Restaurant,873
+Chicago,Risk 2 (Medium),School,850
+Chicago,Risk 2 (Medium),Mobile Food Preparer,830
+Chicago,Risk 3 (Low),Liquor,681
+Chicago,Risk 1 (High),Hospital,634
+Chicago,Risk 1 (High),Golden Diner,633
+Chicago,Risk 1 (High),Daycare Combo 1586,416
+Chicago,Risk 3 (Low),School,313
+Chicago,Risk 3 (Low),Mobile Food Dispenser,282
+Chicago,Risk 3 (Low),TAVERN,231
+Chicago,Risk 1 (High),Shared Kitchen,203
+Chicago,Risk 1 (High),Daycare (Under 2 Years),201
+Chicago,Risk 3 (Low),Wholesale,164
+Chicago,Risk 3 (Low),GAS STATION,123
+Chicago,Risk 1 (High),CHARTER SCHOOL,117
+Chicago,Risk 2 (Medium),Special Event,114
+Chicago,Risk 2 (Medium),Wholesale,108
+Chicago,Risk 1 (High),Shelter,104
+Chicago,Risk 1 (High),Shared Kitchen User (Long Term),98
+Chicago,Risk 2 (Medium),LIVE POULTRY,85
+Chicago,Risk 1 (High),null,84
+Chicago,Risk 1 (High),Special Event,84
+Chicago,Risk 1 (High),BANQUET HALL,74
+Chicago,Risk 1 (High),PRIVATE SCHOOL,67
+Chicago,Risk 1 (High),BANQUET,66
+Chicago,Risk 1 (High),Wholesale,61
+Chicago,Risk 2 (Medium),KIOSK,57
+Chicago,Risk 3 (Low),Mobile Prepared Food Vendor,53
+Chicago,Risk 3 (Low),Mobile Frozen Desserts Vendor,50
+Chicago,Risk 1 (High),STADIUM,49
+Chicago,Risk 1 (High),DAYCARE,47
+Chicago,Risk 2 (Medium),Mobile Food Dispenser,46
+Chicago,Risk 1 (High),Mobile Food Preparer,43
+Chicago,Risk 3 (Low),null,40
+Chicago,Risk 2 (Medium),null,38
+Chicago,Risk 1 (High),CAFETERIA,37
+Chicago,Risk 1 (High),GROCERY/RESTAURANT,36
+Chicago,Risk 1 (High),1023 CHILDERN'S SERVICES FACILITY,36
+Chicago,Risk 2 (Medium),ROOFTOP,35
+Chicago,Risk 2 (Medium),Catering,35
+Chicago,Risk 1 (High),SUPPORTIVE LIVING,34
+Chicago,Risk 2 (Medium),Liquor,34
+Chicago,Risk 2 (Medium),ROOFTOPS,30
+Chicago,Risk 1 (High),ASSISTED LIVING,30
+Chicago,Risk 1 (High),GROCERY STORE/GAS STATION,29
+Chicago,Risk 1 (High),Grocery & Restaurant,28
+Chicago,Risk 2 (Medium),GAS STATION,26
+Chicago,Risk 2 (Medium),Shared Kitchen User (Long Term),25
+Chicago,Risk 2 (Medium),ICE CREAM SHOP,25
+Chicago,Risk 1 (High),NURSING HOME,25
+Chicago,Risk 1 (High),CULINARY SCHOOL,24
+Chicago,Risk 1 (High),RESTAURANT/GROCERY STORE,23
+Chicago,Risk 1 (High),RESTAURANT/BAR,23
+Chicago,Risk 2 (Medium),BANQUET HALL,23
+Chicago,Risk 2 (Medium),ROOF TOPS,22
+Chicago,Risk 1 (High),CHURCH KITCHEN,22
+Chicago,Risk 2 (Medium),coffee shop,22
+Chicago,Risk 3 (Low),STORE,21
+Chicago,Risk 1 (High),PALETERIA,21
+Chicago,Risk 2 (Medium),TAVERN,21
+Chicago,Risk 1 (High),1023-CHILDREN'S SERVICES FACILITY,21
+Chicago,Risk 1 (High),Grocery(Sushi prep),21
+Chicago,Risk 2 (Medium),HERBALIFE,21
+Chicago,Risk 2 (Medium),ROOF TOP,20
+Chicago,Risk 1 (High),PUBLIC SHCOOL,20
+Chicago,Risk 2 (Medium),Pop-Up Establishment Host-Tier II,20
+Chicago,Risk 2 (Medium),Live Poultry,20
+Chicago,Risk 1 (High),COMMISSARY,20
+Chicago,Risk 1 (High),CHARTER,20
+Chicago,Risk 3 (Low),Special Event,19
+Chicago,Risk 1 (High),Assisted Living Senior Care,18
+Chicago,Risk 1 (High),HOTEL,18
+Chicago,Risk 1 (High),UNIVERSITY CAFETERIA,18
+Chicago,Risk 2 (Medium),CHURCH,17
+Chicago,Risk 1 (High),COOKING SCHOOL,17
+Chicago,Risk 2 (Medium),RESTAURANT/BAR,17
+Chicago,Risk 1 (High),CHILDRENS SERVICES FACILITY,17
+Chicago,Risk 1 (High),Private School,16
+Chicago,Risk 1 (High),SENIOR DAY CARE,16
+Chicago,Risk 2 (Medium),CONVENIENCE STORE,16
+Chicago,Risk 3 (Low),BAR,16
+Chicago,Risk 3 (Low),THEATRE,16
+Chicago,Risk 1 (High),GROCERY STORE/COOKING SCHOOL,16
+Chicago,Risk 2 (Medium),GAS STATION/RESTAURANT,15
+Chicago,Risk 3 (Low),BANQUET HALL,15
+Chicago,Risk 1 (High),Daycare Night,15
+Chicago,Risk 2 (Medium),Navy Pier Kiosk,15
+Chicago,Risk 3 (Low),THEATER,15
+Chicago,Risk 1 (High),GROCERY/BAKERY,15
+Chicago,Risk 1 (High),GROCERY STORE/BAKERY,14
+Chicago,Risk 2 (Medium),STADIUM,14
+Chicago,Risk 2 (Medium),Coffee shop,14
+Chicago,Risk 2 (Medium),WRIGLEY ROOFTOP,14
+Chicago,Risk 3 (Low),MOBILE DESSERTS VENDOR,14
+Chicago,Risk 3 (Low),Children's Services Facility,13
+Chicago,Risk 1 (High),DINING HALL,13
+Chicago,Risk 1 (High),banquets,13
+Chicago,Risk 2 (Medium),Daycare (2 - 6 Years),13
+Chicago,Risk 1 (High),A-Not-For-Profit Chef Training Program,13
+Chicago,Risk 3 (Low),CONVENIENCE STORE,13
+Chicago,Risk 2 (Medium),Mobile Prepared Food Vendor,13
+Chicago,Risk 1 (High),cooking school,13
+Chicago,Risk 1 (High),1023,13
+Chicago,Risk 3 (Low),GROCERY STORE/GAS STATION,12
+Chicago,Risk 3 (Low),GAS STATION/STORE,12
+Chicago,Risk 1 (High),BANQUET HALL/CATERING,12
+Chicago,Risk 3 (Low),convenience,12
+Chicago,Risk 1 (High),Mobile Food Dispenser,12
+Chicago,Risk 2 (Medium),SLAUGHTER HOUSE/ GROCERY,12
+Chicago,Risk 1 (High),CHURCH/SPECIAL EVENTS,12
+Chicago,Risk 1 (High),ADULT DAYCARE,12
+Chicago,Risk 3 (Low),CONVENIENCE,12
+Chicago,Risk 1 (High),PASTRY school,11
+Chicago,Risk 1 (High),REHAB CENTER,11
+Chicago,Risk 2 (Medium),Shelter,11
+Chicago,Risk 3 (Low),FITNESS CENTER,11
+Chicago,Risk 3 (Low),bar,11
+Chicago,Risk 3 (Low),Bakery,11
+Chicago,Risk 1 (High),Liquor,11
+Chicago,Risk 1 (High),ROOFTOP,11
+Chicago,Risk 1 (High),employee kitchen,11
+Chicago,Risk 1 (High),DAYCARE 2 YRS TO 12 YRS,11
+Chicago,Risk 1 (High),DAY CARE 2-14,11
+Chicago,Risk 1 (High),RIVERWALK,11
+Chicago,Risk 1 (High),REGULATED BUSINESS,10
+Chicago,Risk 3 (Low),BREWERY,10
+Chicago,Risk 1 (High),LOUNGE/BANQUET HALL,10
+Chicago,Risk 1 (High),Cafeteria,10
+Chicago,Risk 1 (High),BANQUET FACILITY,10
+Chicago,Risk 2 (Medium),convenience store,10
+Chicago,Risk 1 (High),CATERING/CAFE,10
+Chicago,Risk 1 (High),COLLEGE,10
+Chicago,Risk 3 (Low),GAS STATION/MINI MART,9
+Chicago,Risk 1 (High),Banquet Dining,9
+Chicago,Risk 2 (Medium),GROCERY AND BUTCHER,9
+Chicago,Risk 2 (Medium),donut shop,9
+Chicago,Risk 3 (Low),grocery/dollar store,9
+Chicago,Risk 3 (Low),tavern,9
+Chicago,Risk 1 (High),GROCERY/TAQUERIA,9
+Chicago,Risk 3 (Low),Navy Pier Kiosk,9
+Chicago,Risk 1 (High),OUTREACH CULINARY KITCHEN,9
+Chicago,Risk 2 (Medium),CANDY/GELATO,9
+Chicago,Risk 2 (Medium),Wrigley Roof Top,9
+Chicago,Risk 1 (High),BAKERY/DELI,9
+Chicago,Risk 2 (Medium),Banquet Hall,9
+Chicago,Risk 2 (Medium),COFFEE KIOSK,8
+Chicago,Risk 2 (Medium),CUSTOM POULTRY SLAUGHTER,8
+Chicago,Risk 3 (Low),GROCERY/GAS STATION,8
+Chicago,Risk 1 (High),VENDING COMMISSARY,8
+Chicago,Risk 1 (High),Long Term Care Facility,8
+Chicago,Risk 1 (High),Daycare (2 Years),8
+Chicago,Risk 2 (Medium),Restaurant(protein shake bar),8
+Chicago,Risk 2 (Medium),MOBILE FOOD,8
+Chicago,Risk 1 (High),RESTAURANT/HOSPITAL,8
+Chicago,Risk 2 (Medium),Banquet,8
+Chicago,Risk 1 (High),CATERING/BANQUET,8
+Chicago,Risk 3 (Low),Daycare (2 - 6 Years),8
+Chicago,Risk 2 (Medium),GROCERY STORE/GAS STATION,8
+Chicago,Risk 2 (Medium),HOT DOG STATION,8
+Chicago,Risk 1 (High),RESTAURANT.BANQUET HALLS,8
+Chicago,Risk 1 (High),GROCERY STORE/TAQUERIA,8
+Chicago,Risk 2 (Medium),Other,8
+Chicago,Risk 3 (Low),gas station,8
+Chicago,Risk 1 (High),GAS STATION,7
+Chicago,Risk 1 (High),MUSIC VENUE,7
+Chicago,Risk 1 (High),COMMISARY,7
+Chicago,Risk 3 (Low),MOBILE FOOD TRUCK,7
+Chicago,Risk 2 (Medium),AFTER SCHOOL PROGRAM,7
+Chicago,Risk 1 (High),CHARITY AID KITCHEN,7
+Chicago,Risk 2 (Medium),COMMISSARY FOR SOFT SERVE ICE CREAM TRUCKS,7
+Chicago,Risk 1 (High),JUICE BAR,7
+Chicago,Risk 2 (Medium),Daycare Above and Under 2 Years,7
+Chicago,Risk 1 (High),Pop-Up Establishment Host-Tier III,7
+Chicago,Risk 2 (Medium),Church,7
+Chicago,Risk 1 (High),CHURCH,7
+Chicago,Risk 3 (Low),convenience/drug store,7
+Chicago,Risk 3 (Low),convenience store,7
+Chicago,Risk 2 (Medium),MOVIE THEATRE,7
+Chicago,Risk 1 (High),cafeteria,7
+Chicago,Risk 2 (Medium),COFFEE SHOP,7
+Chicago,Risk 3 (Low),Catering,7
+Chicago,Risk 2 (Medium),Airport Lounge,7
+Chicago,Risk 1 (High),REST/GROCERY,7
+Chicago,Risk 3 (Low),HOTEL,6
+Chicago,Risk 3 (Low),NIGHT CLUB,6
+Chicago,Risk 1 (High),Banquet Hall,6
+Chicago,Risk 2 (Medium),HOSTEL,6
+Chicago,Risk 1 (High),WAREHOUSE,6
+Chicago,Risk 3 (Low),DRUG/FOOD STORE,6
+Chicago,Risk 1 (High),RESTAURANT/BAKERY,6
+Chicago,Risk 2 (Medium),Poultry Slaughter,6
+Chicago,Risk 1 (High),Banquet rooms,6
+Chicago,Risk 1 (High),THC INFUSED BAKERY,6
+Chicago,Risk 3 (Low),WINE STORE,6
+Chicago,Risk 2 (Medium),grocery/butcher,6
+Chicago,Risk 1 (High),CITY OF CHICAGO COLLEGE,6
+Chicago,Risk 3 (Low),Rest/GYM,6
+Chicago,Risk 1 (High),GROCERY STORE/ RESTAURANT,6
+Chicago,Risk 2 (Medium),Shared Kitchen,6
+Chicago,Risk 1 (High),CULINARY ARTS SCHOOL,6
+Chicago,Risk 1 (High),15 monts to 5 years old,6
+Chicago,Risk 2 (Medium),RESTAURANT/GROCERY STORE,6
+Chicago,Risk 2 (Medium),butcher shop,6
+Chicago,Risk 1 (High),1023 CHILDERN'S SERVICE S FACILITY,6
+Chicago,Risk 2 (Medium),BEFORE AND AFTER SCHOOL PROGRAM,6
+Chicago,Risk 2 (Medium),Pop-Up Food Establishment User-Tier II,5
+Chicago,Risk 2 (Medium),TEACHING SCHOOL,5
+Chicago,Risk 2 (Medium),COFFEE  SHOP,5
+Chicago,Risk 1 (High),BANQUET ROOM,5
+Chicago,Risk 2 (Medium),REHAB CENTER,5
+Chicago,Risk 3 (Low),Tavern,5
+Chicago,Risk 1 (High),EVENT CENTER,5
+Chicago,Risk 2 (Medium),ICE CREAM,5
+Chicago,Risk 3 (Low),LIQUOR/GROCERY STORE/BAR,5
+Chicago,Risk 2 (Medium),Tavern,5
+Chicago,Risk 1 (High),CHURCH (SPECIAL EVENTS),5
+Chicago,Risk 1 (High),RESTUARANT AND BAR,5
+Chicago,Risk 1 (High),EVENT SPACE,5
+Chicago,Risk 1 (High),HIGH SCHOOL KITCHEN,5
+Chicago,Risk 2 (Medium),HERBAL LIFE,5
+Chicago,Risk 2 (Medium),MOVIE THEATER,5
+Chicago,Risk 2 (Medium),GAS STATION/CONVENIENCE STORE,5
+Chicago,Risk 1 (High),school cafeteria,5
+Chicago,Risk 1 (High),CHARTER SCHOOL CAFETERIA,5
+Chicago,Risk 1 (High),1023 CHILDREN'S SERVICES FACILITY,5
+Chicago,Risk 2 (Medium),JUICE BAR,5
+Chicago,Risk 3 (Low),LIQUOR STORE,4
+Chicago,Risk 2 (Medium),HERBAL LIFE SHOP,4
+Chicago,Risk 1 (High),AFTER SCHOOL PROGRAM,4
+Chicago,Risk 2 (Medium),CANDY SHOP,4
+Chicago,Risk 3 (Low),DOLLAR STORE,4
+Chicago,Risk 1 (High),ROOFTOPS,4
+Chicago,Risk 2 (Medium),GYM STORE,4
+Chicago,Risk 2 (Medium),FITNESS CENTER,4
+Chicago,Risk 3 (Low),GROCERY STORE,4
+Chicago,Risk 1 (High),REST/ROOFTOP,4
+Chicago,Risk 1 (High),ICE CREAM SHOP,4
+Chicago,Risk 2 (Medium),POULTRY SLAUGHTER,4
+Chicago,Risk 2 (Medium),meat packing,4
+Chicago,Risk 2 (Medium),CHURCH KITCHEN,4
+Chicago,Risk 1 (High),grocery & restaurant,4
+Chicago,Risk 3 (Low),COLD/FROZEN FOOD STORAGE,4
+Chicago,Risk 2 (Medium),JUICE AND SALAD BAR,4
+Chicago,Risk 3 (Low),GAS STATION/GROCERY,4
+Chicago,Risk 2 (Medium),GAS STATION/MINI MART,4
+Chicago,Risk 1 (High),TAVERN,4
+Chicago,Risk 2 (Medium),GAS STATION/GROCERY,4
+Chicago,Risk 1 (High),youth housing,4
+Chicago,Risk 2 (Medium),fish market,4
+Chicago,Risk 1 (High),PASTRY SCHOOL,4
+Chicago,Risk 2 (Medium),MILK TEA,4
+Chicago,Risk 1 (High),Banquet/kitchen,4
+Chicago,Risk 1 (High),ROOF TOPS,4
+Chicago,Risk 2 (Medium),GROCERY STORE/DELI,4
+Chicago,Risk 2 (Medium),HERBAL DRINKS,4
+Chicago,Risk 3 (Low),TRUCK,4
+Chicago,Risk 2 (Medium),STORE,4
+Chicago,Risk 3 (Low),GROCERY STORE / GAS STATION,4
+Chicago,Risk 1 (High),CHURCH/SPECIAL EVENT,3
+Chicago,Risk 3 (Low),dollar store,3
+Chicago,Risk 3 (Low),GROCERY STORE PLUS WIRELESS STORE,3
+Chicago,Risk 3 (Low),CONVENIENCE/GAS STATION,3
+Chicago,Risk 3 (Low),SOCIAL CLUB,3
+Chicago,Risk 2 (Medium),snack shop,3
+Chicago,Risk 1 (High),Deli,3
+Chicago,Risk 2 (Medium),NUTRITION..SMOOTHIES/SHAKES,3
+Chicago,Risk 2 (Medium),BUTCHER SHOP,3
+Chicago,Risk 1 (High),SMOKEHOUSE,3
+Chicago,Risk 2 (Medium),BAR/GRILL,3
+Chicago,Risk 1 (High),Pool,3
+Chicago,Risk 1 (High),FOOD HALL,3
+Chicago,Risk 3 (Low),FOOD PANTRY,3
+Chicago,Risk 3 (Low),DRUG STORE/GROCERY,3
+Chicago,Risk 3 (Low),GAS STATION/FOOD,3
+Chicago,Risk 3 (Low),RETAIL FOOD/GAS STATION,3
+Chicago,Risk 1 (High),banquets/room service,3
+Chicago,Risk 2 (Medium),Ice cream,3
+Chicago,Risk 3 (Low),WHOLESALE & RETAIL,3
+Chicago,Risk 3 (Low),BEVERAGE/SILVERWARE WAREHOUSE,3
+Chicago,Risk 2 (Medium),WINE TASTING BAR,3
+Chicago,Risk 1 (High),banquet hall,3
+Chicago,Risk 1 (High),Adult Family Care Center,3
+Chicago,Risk 2 (Medium),PACKAGED HEALTH FOODS,3
+Chicago,Risk 3 (Low),GROCERY/DRUG STORE,3
+Chicago,Risk 2 (Medium),CANDY STORE,3
+Chicago,Risk 3 (Low),BANQUET,3
+Chicago,Risk 3 (Low),FROZEN DESSERT PUSHCARTS,3
+Chicago,Risk 1 (High),MAIN KITCHEN,3
+Chicago,Risk 1 (High),private school,3
+Chicago,Risk 3 (Low),Golden Diner,3
+Chicago,Risk 3 (Low),watermelon house,3
+Chicago,Risk 3 (Low),GAS STATION/STORE GROCERY,3
+Chicago,Risk 3 (Low),HERBAL MEDICINE,3
+Chicago,Risk 3 (Low),MFD TRUCK,3
+Chicago,Risk 3 (Low),MOBILE FROZEN DESSERT VENDOR,3
+Chicago,Risk 2 (Medium),GROCERY,3
+Chicago,Risk 3 (Low),theater,3
+Chicago,Risk 3 (Low),VFW HALL,3
+Chicago,Risk 3 (Low),Laundromat,3
+Chicago,Risk 3 (Low),GROCERY/SERVICE GAS STATION,3
+Chicago,Risk 2 (Medium),NUTRITION SHAKES,3
+Chicago,Risk 1 (High),GROCERY/DELI,3
+Chicago,Risk 2 (Medium),GROCERY/GAS STATION,3
+Chicago,Risk 1 (High),BOWLING LANES/BANQUETS,3
+Chicago,Risk 3 (Low),PACKAGED LIQUOR,3
+Chicago,Risk 3 (Low),CANDY STORE,3
+Chicago,Risk 1 (High),Long-Term Care Facility,3
+Chicago,Risk 2 (Medium),HERBALIFE/ZUMBA,3
+Chicago,Risk 2 (Medium),EXERCISE AND NUTRITION BAR,3
+Chicago,Risk 2 (Medium),HEALTH CARE STORE,3
+Chicago,Risk 2 (Medium),GOLF COURSE CONNCESSION STAND,3
+Chicago,Risk 1 (High),Shared Kitchen User (Short Term),2
+Chicago,Risk 1 (High),ARCHDIOCESE,2
+Chicago,Risk 2 (Medium),Herbalife Nutrition,2
+Chicago,Risk 3 (Low),Shared Kitchen,2
+Chicago,Risk 3 (Low),DRUG STORE,2
+Chicago,Risk 2 (Medium),NOT-FOR-PROFIT CLUB,2
+Chicago,Risk 1 (High),Pop-Up Establishment Host-Tier II,2
+Chicago,Risk 2 (Medium),CAFE/STORE,2
+Chicago,Risk 3 (Low),Candy,2
+Chicago,Risk 3 (Low),RETAIL,2
+Chicago,Risk 2 (Medium),CONVENIENCE,2
+Chicago,Risk 2 (Medium),THEATER,2
+Chicago,Risk 1 (High),RESTAURANT/GROCERY,2
+Chicago,Risk 3 (Low),newsstand,2
+Chicago,Risk 2 (Medium),MEXICAN CANDY STORE,2
+Chicago,Risk 3 (Low),EVENT SPACE,2
+Chicago,Risk 1 (High),CULINARY KITCHEN,2
+Chicago,Risk 2 (Medium),LIVE POULTRY SLAUGHTER FACILITY,2
+Chicago,Risk 3 (Low),GAS STATION STORE,2
+Chicago,Risk 3 (Low),RESTAURANT/BAR/THEATER,2
+Chicago,Risk 2 (Medium),fitness center,2
+Chicago,Risk 3 (Low),COFFEE VENDING MACHINE,2
+Chicago,Risk 1 (High),"BUTCHER, DELI",2
+Chicago,Risk 2 (Medium),HERBALCAL,2
+Chicago,Risk 3 (Low),GAS STATION /GROCERY,2
+Chicago,Risk 3 (Low),AFTER SCHOOL PROGRAM,2
+Chicago,Risk 2 (Medium),SOUP KITCHEN AND PANTRY,2
+Chicago,Risk 2 (Medium),JUICE BAR/GROCERY,2
+Chicago,Risk 3 (Low),Food Pantry,2
+Chicago,Risk 3 (Low),FITNESS STUDIO,2
+Chicago,Risk 3 (Low),CELL PHONE STORE,2
+Chicago,Risk 2 (Medium),COFFEE/TEA,2
+Chicago,Risk 3 (Low),MUSIC VENUE,2
+Chicago,Risk 3 (Low),Illegal Vendor,2
+Chicago,Risk 1 (High),bakery/restaurant,2
+Chicago,Risk 2 (Medium),PANTRY,2
+Chicago,Risk 3 (Low),LINITED BUSINESS,2
+Chicago,Risk 3 (Low),PRIVATE CLUB,2
+Chicago,Risk 3 (Low),TOBACCO STORE,2
+Chicago,Risk 2 (Medium),Animal Shelter Cafe Permit,2
+Chicago,Risk 1 (High),DAYCARE 6 WKS-5YRS,2
+Chicago,Risk 2 (Medium),CAFETERIA,2
+Chicago,Risk 2 (Medium),BOYS AND GIRLS CLUB,2
+Chicago,Risk 1 (High),ASSISSTED LIVING,2
+Chicago,Risk 3 (Low),RETAIL FOOD,2
+Chicago,Risk 3 (Low),DISTRIBUTION CENTER,2
+Chicago,Risk 3 (Low),DISTILLERY WITH TASTING ROOM,2
+Chicago,Risk 1 (High),CULINARY CLASS ROOMS,2
+Chicago,Risk 1 (High),CHILDERN'S SERVICES  FACILITY,2
+Chicago,Risk 3 (Low),Shared Kitchen User (Long Term),2
+Chicago,Risk 3 (Low),Tavern/Bar,2
+Chicago,Risk 3 (Low),(gas station),2
+Chicago,Risk 2 (Medium),GROCERY STORE/RESTAURANT,2
+Chicago,Risk 2 (Medium),COFFEE AND/OR DRINKS,2
+Chicago,Risk 2 (Medium),GELATO SHOP,2
+Chicago,Risk 1 (High),Church Kitchen,2
+Chicago,Risk 1 (High),SOUP KITCHEN,2
+Chicago,Risk 3 (Low),LIQUOR/GROCERY,2
+Chicago,Risk 3 (Low),HELICOPTER TERMINAL,2
+Chicago,Risk 3 (Low),GROCERY(GAS STATION),2
+Chicago,Risk 2 (Medium),smoothie bar,2
+Chicago,Risk 3 (Low),PUSHCART,2
+Chicago,Risk 1 (High),Shared Kitchen Supplemental,2
+Chicago,Risk 2 (Medium),LIVE POULTRY SLAUGHTER,2
+Chicago,Risk 2 (Medium),LIQUOR/GROCERY STORE/BAR,2
+Chicago,Risk 1 (High),GAS STATION/GROCERY,2
+Chicago,Risk 3 (Low),THEATER/BAR,2
+Chicago,Risk 1 (High),ADULT DAY SERVICE,2
+Chicago,Risk 3 (Low),FLEA MARKET,2
+Chicago,Risk 3 (Low),DOLLAR STORE WITH GROCERY,2
+Chicago,Risk 3 (Low),DOLLAR & GROCERY STORE,2
+Chicago,Risk 3 (Low),CHINESE HERBS,2
+Chicago,Risk 3 (Low),Daycare Above and Under 2 Years,2
+Chicago,Risk 1 (High),NOT FOR PROFIT,2
+Chicago,Risk 2 (Medium),COOKING SCHOOL,2
+Chicago,Risk 1 (High),SUMMER FEEDING PREP AREA,2
+Chicago,Risk 3 (Low),PRE PACKAGED,2
+Chicago,Risk 2 (Medium),KITCHEN DEMO,2
+Chicago,Risk 3 (Low),grocery,2
+Chicago,Risk 3 (Low),CAFE,2
+Chicago,Risk 3 (Low),Social Club,2
+Chicago,Risk 3 (Low),Other,2
+Chicago,Risk 3 (Low),hair salon,2
+Chicago,Risk 2 (Medium),EVENT SPACE,2
+Chicago,Risk 2 (Medium),live butcher,2
+Chicago,Risk 3 (Low),Church,2
+Chicago,Risk 3 (Low),ENTERTAINMENT VENUE,2
+Chicago,Risk 2 (Medium),SHAKES/TEAS,2
+Chicago,Risk 1 (High),PREP INSIDE SCHOOL,2
+Chicago,Risk 3 (Low),blockbuster video,2
+Chicago,Risk 1 (High),LIVE POULTRY,2
+Chicago,Risk 1 (High),Commissary,2
+Chicago,Risk 3 (Low),video store,2
+Chicago,Risk 2 (Medium),COFFEE ROASTER,2
+Chicago,Risk 3 (Low),WAREHOUSE,2
+Chicago,Risk 3 (Low),PRIVATE EVENT SPACE,2
+Chicago,Risk 3 (Low),liquor store,2
+Chicago,Risk 2 (Medium),BAKERY/GROCERY,2
+Chicago,Risk 3 (Low),ROOM SERVICE,2
+Chicago,Risk 1 (High),FRENCH MARKET SPACE,2
+Chicago,Risk 3 (Low),GOLF COURSE,2
+Chicago,Risk 1 (High),NORTHERLY ISLAND,2
+Chicago,Risk 2 (Medium),RIVERWALK CAFE,2
+Chicago,Risk 3 (Low),HAIR SALON,1
+Chicago,Risk 3 (Low),night club,1
+Chicago,Risk 3 (Low),TAVERN/RESTAURANT,1
+Chicago,Risk 3 (Low),HERBAL STORE,1
+Chicago,Risk 3 (Low),SUMMER FEEDING,1
+Chicago,Risk 1 (High),School Cafeteria,1
+Chicago,Risk 3 (Low),LIQUOR CONSUMPTION ON PREMISES.,1
+Chicago,Risk 1 (High),Mobile Prepared Food Vendor,1
+Chicago,Risk 2 (Medium),GAS STATION STORE,1
+Chicago,Risk 3 (Low),DOLLAR TREE,1
+Chicago,Risk 2 (Medium),LIQUOR/COFFEE KIOSK,1
+Chicago,Risk 3 (Low),Pop-Up Food Establishment User-Tier II,1
+Chicago,Risk 2 (Medium),tavern,1
+Chicago,Risk 3 (Low),KIOSK,1
+Chicago,Risk 1 (High),MOVIE THEATRE,1
+Chicago,Risk 3 (Low),Animal Shelter Cafe Permit,1
+Chicago,Risk 2 (Medium),NORTHERLY ISLAND,1
+Chicago,Risk 3 (Low),GAS STATION/ GROCERY STORE,1
+Chicago,Risk 3 (Low),PHARMACY,1
+Chicago,Risk 3 (Low),MOBILE FOOD,1
+Chicago,Risk 3 (Low),FURNITURE STORE,1
+Chicago,Risk 2 (Medium),POPCORN CORN,1
+Chicago,Risk 3 (Low),Banquet rooms,1
+Chicago,Risk 1 (High),CPS (CHARTER),1
+Chicago,Risk 3 (Low),ART CENTER,1
+Chicago,Risk 2 (Medium),Shared Kitchen User (Short Term),1
+Chicago,Risk 2 (Medium),DISTRIBUTOR,1
+Chicago,Risk 3 (Low),MOBILE DESSERT CART,1
+Chicago,Risk 3 (Low),SERVICE GAS STATION,1
+Chicago,Risk 2 (Medium),GROCERY/CAFE,1
+Chicago,Risk 2 (Medium),COMMISSARY,1
+Chicago,Risk 1 (High),UNLICENSED FACILITY,1
+Chicago,Risk 2 (Medium),WHOLESALE BAKERY,1
+Chicago,Risk 2 (Medium),Pop-Up Establishment Host-Tier III,1
+Chicago,Risk 3 (Low),EVENT VENU,1
+Chicago,Risk 2 (Medium),CONVENIENT STORE,1
+Chicago,Risk 3 (Low),CLOTHING STORE,1
+Chicago,Risk 3 (Low),MOBILE DESSERT VENDOR,1
+Chicago,Risk 2 (Medium),PALETERIA,1
+Chicago,Risk 2 (Medium),BAKERY/ RESTAURANT,1
+Chicago,Risk 3 (Low),HERBALIFE STORE,1
+Chicago,Risk 3 (Low),PUSH CARTS,1
+Chicago,Risk 1 (High),CHARTER SCHOOL/CAFETERIA,1
+Chicago,Risk 3 (Low),Dollar store,1
+Chicago,Risk 1 (High),SHELTER,1
+Chicago,Risk 3 (Low),GREENHOUSE,1
+Chicago,Risk 1 (High),FOOD BOOTH,1
+Chicago,Risk 3 (Low),1475 LIQUOR,1
+Chicago,Risk 2 (Medium),SPA,1
+Chicago,Risk 3 (Low),RESTUARANT AND BAR,1
+Chicago,Risk 3 (Low),warehouse,1
+Chicago,Risk 1 (High),MOBILE FOOD TRUCK,1
+Chicago,Risk 1 (High),1005 NURSING HOME,1
+Chicago,Risk 2 (Medium),GROCERY/ RESTAURANT,1
+Chicago,Risk 2 (Medium),coffee,1
+Chicago,Risk 2 (Medium),PALETERIA /ICECREAM SHOP,1
+Chicago,Risk 3 (Low),TAP room/tavern/liquor store,1
+Chicago,Risk 3 (Low),Mobile frozen dessert vendor,1
+Chicago,Risk 3 (Low),ART GALLERY W/WINE AND BEER,1
+Chicago,Risk 3 (Low),TEMPORARY KIOSK,1
+Chicago,Risk 3 (Low),CONVNIENCE STORE,1
+Chicago,Risk 3 (Low),HOOKA BAR,1
+Chicago,Risk 3 (Low),PREPACKAGE MEAL DISTRIBUTOR (1006 Retail),1
+Chicago,Risk 1 (High),incubator,1
+Chicago,Risk 3 (Low),REPACKAGING PLANT,1
+Chicago,Risk 1 (High),DELI/BAKERY,1
+Chicago,Risk 3 (Low),LIQOUR BREWERY TASTING,1
+Chicago,Risk 3 (Low),MASSAGE BAR,1
+Chicago,Risk 3 (Low),MOBILE FOOD DESSERTS VENDOR,1
+Chicago,Risk 3 (Low),Shelter,1
+Chicago,null,AFTER SCHOOL PROGRAM,1
+Chicago,Risk 1 (High),GROCERY/CAFE,1
+Chicago,Risk 2 (Medium),PRIVATE SCHOOL,1
+Chicago,Risk 3 (Low),GROCERY STORE /PHARMACY,1
+Chicago,Risk 2 (Medium),Lounge,1
+Chicago,Risk 1 (High),NON -PROFIT,1
+Chicago,Risk 3 (Low),GENERAL STORE,1
+Chicago,Risk 3 (Low),MOBILPREPARED FOOD VENDOR,1
+Chicago,Risk 1 (High),DAY CARE 1023,1
+Chicago,Risk 1 (High),Long-Term Care,1
+Chicago,Risk 2 (Medium),RETAIL STORE,1
+Chicago,Risk 3 (Low),(convenience store),1
+Chicago,Risk 3 (Low),ROOFTOP PATIO,1
+Chicago,Risk 1 (High),Church,1
+Chicago,Risk 3 (Low),tavern/restaurant,1
+Chicago,Risk 2 (Medium),candy/gelato,1
+Chicago,Risk 3 (Low),GROCERY & LIQUOR STORE,1
+Chicago,Risk 3 (Low),Internet Cafe,1
+Chicago,Risk 3 (Low),Gift Shop,1
+Chicago,Risk 3 (Low),Museum/Gallery,1
+Chicago,Risk 3 (Low),weight loss program,1
+Chicago,Risk 3 (Low),HERBAL REMEDY,1
+Chicago,Risk 1 (High),1584-DAY CARE ABOVE 2 YEARS,1
+Chicago,Risk 3 (Low),Convenience Store,1
+Chicago,Risk 1 (High),GAS STATION /SUBWAY MINI MART.,1
+Chicago,Risk 3 (Low),hooka lounge,1
+Chicago,Risk 2 (Medium),UNLICENSED FACILITY,1
+Chicago,Risk 3 (Low),GAS STATION FOOD STORE,1
+Chicago,Risk 3 (Low),Shuffleboard Club with Bar,1
+Chicago,Risk 3 (Low),GROCERY/LIQUOR STORE,1
+Chicago,Risk 1 (High),DAYCARE 1586,1
+Chicago,Risk 2 (Medium),TEST KITCHEN/ STORAGE,1
+Chicago,Risk 3 (Low),UNUSED STORAGE,1
+Chicago,Risk 3 (Low),GYM,1
+Chicago,Risk 2 (Medium),Herabalife,1
+Chicago,Risk 3 (Low),TEA STORE,1
+Chicago,Risk 1 (High),NON-FOR PROFIT BASEMENT KIT,1
+Chicago,Risk 2 (Medium),HEALTH CENTER,1
+Chicago,Risk 1 (High),KIDS CAFE,1
+Chicago,Risk 3 (Low),FREE FOOD PANTRY,1
+Chicago,Risk 2 (Medium),COOKING CLASS,1
+Chicago,Risk 3 (Low),SERVICE BAR/THEATRE,1
+Chicago,Risk 3 (Low),NEWSSTAND,1
+Chicago,Risk 3 (Low),Gas station,1
+Chicago,Risk 3 (Low),CAR WASH,1
+Chicago,Risk 3 (Low),LIQUORE STORE/BAR,1
+Chicago,Risk 2 (Medium),POPCORN SHOP,1
+Chicago,Risk 3 (Low),Nutrition Store,1
+Chicago,Risk 2 (Medium),ICE CREAM PARLOR,1
+Chicago,Risk 3 (Low),PRODUCE STAND,1
+Chicago,Risk 3 (Low),ART GALLERY,1
+Chicago,Risk 3 (Low),URBAN FARM,1
+Chicago,Risk 1 (High),DAYCARE COMBO,1
+Chicago,Risk 1 (High),CATERED EVENTS,1
+Chicago,Risk 3 (Low),CATERED EVENTS,1
+Chicago,Risk 2 (Medium),drug treatment facility,1

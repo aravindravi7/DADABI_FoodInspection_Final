@@ -1,0 +1,118 @@
+inspection_year,source_city,inspection_result,inspection_count
+2010,Chicago,Fail,3571
+2010,Chicago,Pass,7489
+2010,Chicago,Pass w/ Conditions,1407
+2011,Chicago,Fail,3727
+2011,Chicago,Out of Business,1
+2011,Chicago,Pass,8261
+2011,Chicago,Pass w/ Conditions,1486
+2012,Chicago,Fail,3224
+2012,Chicago,No Entry,30
+2012,Chicago,Out of Business,3
+2012,Chicago,Pass,8560
+2012,Chicago,Pass w/ Conditions,1518
+2013,Chicago,Fail,3091
+2013,Chicago,No Entry,57
+2013,Chicago,Out of Business,3
+2013,Chicago,Pass,9891
+2013,Chicago,Pass w/ Conditions,1746
+2014,Chicago,Fail,3370
+2014,Chicago,No Entry,39
+2014,Chicago,Out of Business,5
+2014,Chicago,Pass,10621
+2014,Chicago,Pass w/ Conditions,2291
+2015,Chicago,Fail,3458
+2015,Chicago,No Entry,41
+2015,Chicago,Not Ready,6
+2015,Chicago,Out of Business,5
+2015,Chicago,Pass,10013
+2015,Chicago,Pass w/ Conditions,2143
+2016,Chicago,Fail,4231
+2016,Chicago,No Entry,82
+2016,Chicago,Not Ready,15
+2016,Chicago,Out of Business,4
+2016,Chicago,Pass,10346
+2016,Chicago,Pass w/ Conditions,2610
+2016,Dallas,Fail,312
+2016,Dallas,Pass,2593
+2016,Dallas,Pass w/ Conditions,2533
+2017,Chicago,Fail,4025
+2017,Chicago,No Entry,87
+2017,Chicago,Not Ready,5
+2017,Chicago,Out of Business,1
+2017,Chicago,Pass,9629
+2017,Chicago,Pass w/ Conditions,2122
+2017,Dallas,Fail,1589
+2017,Dallas,Pass,9406
+2017,Dallas,Pass w/ Conditions,10921
+2018,Chicago,Fail,3231
+2018,Chicago,No Entry,78
+2018,Chicago,Not Ready,12
+2018,Chicago,Out of Business,4
+2018,Chicago,Pass,4736
+2018,Chicago,Pass w/ Conditions,5043
+2018,Dallas,Fail,1527
+2018,Dallas,Pass,10496
+2018,Dallas,Pass w/ Conditions,10832
+2019,Chicago,Fail,3483
+2019,Chicago,No Entry,26
+2019,Chicago,Not Ready,14
+2019,Chicago,Out of Business,3
+2019,Chicago,Pass,3033
+2019,Chicago,Pass w/ Conditions,7720
+2019,Dallas,Fail,1321
+2019,Dallas,Pass,7480
+2019,Dallas,Pass w/ Conditions,8741
+2020,Chicago,Fail,2874
+2020,Chicago,No Entry,103
+2020,Chicago,Not Ready,12
+2020,Chicago,Out of Business,3
+2020,Chicago,Pass,4034
+2020,Chicago,Pass w/ Conditions,3855
+2020,Dallas,Fail,595
+2020,Dallas,Pass,7833
+2020,Dallas,Pass w/ Conditions,6965
+2021,Chicago,Fail,2952
+2021,Chicago,No Entry,38
+2021,Chicago,Not Ready,4
+2021,Chicago,Out of Business,1
+2021,Chicago,Pass,5000
+2021,Chicago,Pass w/ Conditions,3090
+2021,Dallas,Fail,886
+2021,Dallas,Pass,8199
+2021,Dallas,Pass w/ Conditions,7609
+2022,Chicago,Fail,3497
+2022,Chicago,No Entry,30
+2022,Chicago,Not Ready,3
+2022,Chicago,Out of Business,7
+2022,Chicago,Pass,5823
+2022,Chicago,Pass w/ Conditions,2448
+2022,Dallas,Fail,850
+2022,Dallas,Pass,7610
+2022,Dallas,Pass w/ Conditions,6956
+2023,Chicago,Fail,3755
+2023,Chicago,No Entry,42
+2023,Chicago,Not Ready,5
+2023,Chicago,Out of Business,3
+2023,Chicago,Pass,6568
+2023,Chicago,Pass w/ Conditions,2307
+2023,Dallas,Fail,761
+2023,Dallas,Pass,8980
+2023,Dallas,Pass w/ Conditions,6980
+2024,Chicago,Fail,3405
+2024,Chicago,No Entry,56
+2024,Chicago,Not Ready,2
+2024,Chicago,Pass,7140
+2024,Chicago,Pass w/ Conditions,2541
+2024,Dallas,Fail,293
+2024,Dallas,Pass,1315
+2024,Dallas,Pass w/ Conditions,1436
+2025,Chicago,Fail,3324
+2025,Chicago,No Entry,52
+2025,Chicago,Not Ready,4
+2025,Chicago,Pass,7440
+2025,Chicago,Pass w/ Conditions,2223
+2026,Chicago,Fail,698
+2026,Chicago,No Entry,4
+2026,Chicago,Pass,1619
+2026,Chicago,Pass w/ Conditions,502
